@@ -1,0 +1,104 @@
+#Navigation Bar
+login: Log In
+homepage: Homepage
+home: Home
+trophies: Trophies
+games: Games
+users: Users
+friends: Friends
+settings: Settings
+feedback: Feedback
+change_theme: Change Theme
+
+#Footer
+about_us: About us
+issues: Issues
+
+#User Games
+filter: Show filters
+sort_by: Sort By
+last_played: Last Played
+last_played_tooltip: Last time the game was played and then trophies were synced
+last_trophy: Last Trophy
+last_trophy_tooltip: Last trophy earned in each title
+first_trophy: First Trophy
+first_trophy_tooltip: First trophy earned in each title
+trophy_gap: Trophy Gap
+trophy_gap_tooltip: Gap between first and last trophy earned in each title
+alphabetical: Alphabetical
+completion_per: Completion %
+completion: Completion
+complete: Complete
+complete_tooltip: Games with 100% progress
+incomplete: Incomplete
+incomplete_tooltip: Games with less than 100% progress
+order: Order
+ascending: Ascending
+ascending_tooltip: A-Z, lowest-highest, earliest-latest
+descending: Descending
+descending_tooltip: Z-A, highest-lowest, latest-earliest
+platform: Platform
+
+#Trophies types
+platinum: Platinum
+gold: Gold
+silver: Silver
+bronze: Bronze
+total_trophies: Total Trophies
+
+#Alerts
+alert_success: Task completed succesfully!
+alert_error: Task failed succesfully!
+alert_warning: Warning!
+alert_info: Did you know?!
+alert_default: uhhh!
+
+#Index Page
+latest_games: Latest Games
+latest_dlc: Latest DLC
+
+#Games
+all_games: All Games
+total_games: Total Games
+completed_games: Completed Games
+completed_on: Completed on
+last_played_on: Last played on
+
+#Head
+site_name: Trophy Place #Should not be translated?
+layouts.title: '{title} - {site_name}'
+layouts.descrption: '{site_name} is your preferred site to track all PSN trophies'
+
+#Legal
+copyright: Copyright © 2023 - All right reserved by gaming.
+
+#Settings
+translate_the_site: Translate the Site!
+
+#Misc (mostly single words)
+username: Username
+email: Email
+password: Password
+cancel: Cancel
+submit: Submit
+welcome: Welcome
+hello: Hello
+profile: Profile
+page: Page
+options: Options
+contact: Contact
+owner: Owner
+average: Average
+search: Search
+all: All
+in: in
+language: Language
+theme: Theme
+PLACEHOLDER: PLACEHOLDER #because buttons im not sure i want to do with yet
+empty: '' #in case we need to translate a thing but it isn't always a thing
+
+#These are used in the setup process and not shown on the site
+#code: 'en', #This should be the ISO-639-1 code for your language https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+#iso: 'en-US', #This should be the same as above, plus region if needed ex. (pt-BR)
+#name: 'English', #The name of the language, in the language
+#file: 'en-US.yaml', #The filename, should be the same as iso above

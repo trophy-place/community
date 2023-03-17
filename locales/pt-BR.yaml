@@ -1,0 +1,106 @@
+#Navigation Bar
+login: Entrar
+homepage: Página de Ínicio
+home: Início
+trophies: Troféus
+games: Jogos
+users: Usuários
+friends: Amigos
+settings: Configurações
+feedback: Feedback
+change_theme: Trocar de tema
+
+#Footer
+about_us: Sobre
+issues: Problemas
+
+#User Games
+filter: Mostrar filtros
+sort_by: Organizar por
+last_played: Jogado Recentemente
+last_played_tooltip: Última vez que o jogo foi iniciado e foi sincronizado
+last_trophy: Troféus Recentes
+last_trophy_tooltip: Último troféu conquistado em cada jogo
+first_trophy: Primeiro Troféu
+first_trophy_tooltip: Primeiro troféu conquistado em cada jogo
+trophy_gap: Tempo entre Troféus
+trophy_gap_tooltip: Tempo entre o primeiro e último troféus em cada jogo
+alphabetical: Alfabética
+completion_per: Conclusão (%)
+completion: Conclusão
+complete: Completado
+complete_tooltip: Jogos com 100% de conclusão
+incomplete: Incompleto
+incomplete_tooltip: Jogos com menos de 100% de conclusão
+order: Ordem
+ascending: Ascendente
+ascending_tooltip: A-Z, menor-maior, primeiro-último
+descending: Descendente
+descending_tooltip: Z-A, maior-menor, último-primeiro
+platform: Platforma
+
+#Trophies
+platinum: Platina
+gold: Ouro
+silver: Prata
+bronze: Bronze
+total_trophies: Total de troféus
+
+#Alerts
+alert_success: Sucesso!
+alert_error: Erro!
+alert_warning: Atenção!
+alert_info: Você sabia?
+alert_default: Uhhh
+
+#Index Page
+latest_games: Novos Jogos
+latest_dlc: Novas DLCs
+
+#Games
+all_games: Todos os jogos
+total_games: Jogos Totais
+completed_games: Jogos Concluídos
+completed_on: Concluído em
+last_played_on: Jogado em
+
+#Header
+site_name: Trophy Place #Should not be translated?
+layouts.title: '{title} - {site_name}'
+layouts.descrption: '{site_name} é seu site preferido para ver troféus'
+
+#Legal
+copyright: Copyright © 2023 - Todos os direitos reservados.
+
+
+#Settings
+translate_the_site: Traduza o site!
+
+#Misc (mostly single words)
+username: Nome de usuário
+email: Email
+password: Senha
+cancel: Cancelar
+submit: Enviar
+welcome: Bem vindo
+hello: Olá
+profile: Perfil
+page: Página
+options: Opções
+contact: Contato
+owner: Dono
+average: Média
+search: Pesquisar
+all: Todos
+in: em
+language: Idioma
+theme: Tema
+PLACEHOLDER: RESERVADO #because buttons im not sure i want to do with yet
+empty: '' #in case we need to translate a thing but it isn't always a thing
+
+
+#These are used in the setup process and not shown on the site
+#code: 'pt-BR', #This should be the ISO-639-1 code for your language https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+#iso: 'pt-BR', #This should be the same as above, plus region if needed ex. (pt-BR)
+#name: 'English', #The name of the language, in the language
+#file: 'pt-BR.yaml', #The filename, should be the same as iso above
