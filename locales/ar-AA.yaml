@@ -40,6 +40,26 @@ ascending_tooltip: A-Z, من الأقل الى الأعلى, من الأول ا�
 descending: تنازلياً
 descending_tooltip: Z-A, من الأعلى الى الأقل, من الآخر الى الأول
 platform: المنصة
+series: Series #NEW
+series_tooltip: Display games in series #NEW
+impossible: Impossible #NEW
+impossible_tooltip: Display impossible games #NEW
+delisted: Delisted #NEW
+delisted_tooltip: Display delisted games #NEW
+dlc: DLC #NEW
+dlc_tooltip: Display games with DLC #NEW
+platinum_tooltip: Display games with Platinums #NEW
+stacks: Stacks #NEW
+stacks_tooltip: Display games with stacks #NEW
+online: Online #NEW 
+versus: Versus #NEW
+versus_tooltip: Games with the competitive tag #NEW
+coop: Co-op #NEW
+coop_tooltip: Games with the cooperative tag #NEW
+both: Both #NEW
+both_tooltip: Games with both Competitive and Cooperative tags #NEW
+some: Some #NEW
+some_tooltip: Games with either Competitive tag or Cooperative tag #NEW
 
 #Trophies
 platinum: بلاتينيوم
@@ -99,5 +119,7 @@ all: الكل
 in: في
 language: اللغة
 theme: نمط الخلفية
+only: Only #NEW
+none: None #NEW
 PLACEHOLDER: المساحة المحجوزة
 empty: ''

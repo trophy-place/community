@@ -40,6 +40,26 @@ ascending_tooltip: A-Z, lowest-highest, earliest-latest
 descending: Descending
 descending_tooltip: Z-A, highest-lowest, latest-earliest
 platform: Platform
+series: Series #NEW
+series_tooltip: Display games in series #NEW
+impossible: Impossible #NEW
+impossible_tooltip: Display impossible games #NEW
+delisted: Delisted #NEW
+delisted_tooltip: Display delisted games #NEW
+dlc: DLC #NEW
+dlc_tooltip: Display games with DLC #NEW
+platinum_tooltip: Display games with Platinums #NEW
+stacks: Stacks #NEW
+stacks_tooltip: Display games with stacks #NEW
+online: Online #NEW 
+versus: Versus #NEW
+versus_tooltip: Games with the competitive tag #NEW
+coop: Co-op #NEW
+coop_tooltip: Games with the cooperative tag #NEW
+both: Both #NEW
+both_tooltip: Games with both Competitive and Cooperative tags #NEW
+some: Some #NEW
+some_tooltip: Games with either Competitive tag or Cooperative tag #NEW
 
 #Trophies
 platinum: Platinum
@@ -47,7 +67,7 @@ gold: Gold
 silver: Silver
 bronze: Bronze
 total_trophies: Total Trophies
-no_trophies_found: No Trophies Found #NEW
+no_trophies_found: No Trophies Found
 
 #Alerts
 alert_success: Task completed succesfully!
@@ -99,5 +119,7 @@ all: All
 in: in
 language: Language
 theme: Theme
+only: Only #NEW
+none: None #NEW
 PLACEHOLDER: PLACEHOLDER #because buttons im not sure i want to do with yet
 empty: '' #in case we need to translate a thing but it isn't always a thing
