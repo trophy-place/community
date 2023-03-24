@@ -1,0 +1,103 @@
+#Navigation Bar
+login: Giriş Yap
+homepage: Ana Sayfa
+home: Ev
+trophies: Kupalar
+games: Oyunlar
+users: Kullanıcılar
+friends: Arkadaşlar
+settings: Ayarlar
+feedback: Geri Bildirim
+change_theme: Temayı Değiştir
+
+#Footer
+about_us: Hakkımızda
+issues: Sorunlar
+
+#User Games
+filter: Filtrele
+sort_by: Sırala
+last_played: Son Oynanma
+last_played_tooltip: Oyunun Son Oynandığı Ve Sonrasında Kupaların Eşleştirildiği Zaman
+first_played: İlk oynanan
+times_played: Oynanma Sayısı
+last_trophy: Son Kupa
+last_trophy_tooltip: Her Oyunda Kazanılan Son Kupa
+first_trophy: İlk Kupa
+first_trophy_tooltip: Her Oyunda Kazanılan İlk Kupa
+trophy_gap: Kupa Aralığı
+trophy_gap_tooltip: Kazanılan İlk Ve Son Kupa Arasında Geçen Süre
+alphabetical: Alfabetik
+completion_per: Tamamlama Yüzdesi
+completion: Tamamlama
+complete: Tamamlanmış
+complete_tooltip: %100 Bitirilen Oyunlar
+incomplete: Tamamlanmamış
+incomplete_tooltip: %100'den Azı Bitirilen Oyunlar
+order: Sıra
+ascending: Artan
+ascending_tooltip: En Küçük - En Büyük, En Eski - En Yeni
+descending: Azalan
+descending_tooltip: En Büyük - En Küçük, En Yeni - En Eski
+platform: Platform
+
+#Trophies
+platinum: Platin
+gold: Altın
+silver: Gümüş
+bronze: Bronz
+total_trophies: Toplam Kupa
+no_trophies_found: Hiç Kupa Bulunamadı
+
+#Alerts
+alert_success: Görev Başarıyla Tamamlandı!
+alert_error: Görevde Başarılı Bir Şekilde Başarısız Olundu!
+alert_warning: Uyarı!
+alert_info: Biliyor Muydunuz?!
+alert_default: Aahh!
+
+#Index Page
+latest_games: Son Oyunlar
+latest_dlc: Son DLC
+
+#Games
+all_games: Tüm Oyunlar
+total_games: Toplam Oyun Sayısı
+completed_games: Tamamlanmış Oyun Sayısı
+completed_on: Tamamlandığı Zaman
+last_played_on: Son Oynandığı Zaman
+no_games_found: Hiç Oyun Bulunamadı
+
+#Head
+site_name: Trophy Place #Should not be translated?
+layouts.title: '{title} - {site_name}'
+layouts.descrption: 'Tüm PSN Kupalarınızı Takip Etmek İçin İlk Tercih Siteniz'
+
+#Legal
+copyright: Copyright © 2023 - Tüm Hakları Oyunda Saklıdır
+
+#Settings
+translate_the_site: Siteyi Tercüme Edin!
+
+#Misc (mostly single words)
+username: Kullanıcı Adı
+email: E-posta
+password: Şifre
+cancel: İptal
+submit: Gönder
+welcome: Hoş Geldiniz
+hello: Merhaba
+profile: Profil
+page: Sayfa
+options: Seçenekler
+contact: İrtibata Geçin
+owner: Sahibi
+owners: Sahipler
+average: Ortalama
+search: Ara
+all: Hepsi
+in: İçinde
+language: Dil
+theme: Tema
+PLACEHOLDER: Yer Tutucu
+empty: ''

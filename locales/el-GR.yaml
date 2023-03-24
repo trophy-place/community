@@ -1,0 +1,103 @@
+#Navigation Bar
+login: Σύνδεση
+homepage: Αρχική Σελίδα
+home: Σπίτι
+trophies: Τρόπαια
+games: Παιχνίδια
+users: Χρήστης
+friends: Φίλοι
+settings: Ρυθμίσεις
+feedback: Αναφορά
+change_theme: Αλλαγή Θέματος
+
+#Footer
+about_us: Για Εμάς
+issues: Προβλήματα
+
+#User Games
+filter: Δείξε Φίλτρα
+sort_by: Ταξινόμηση Κατά
+last_played: Τελευταίο παίξιμο
+last_played_tooltip: Τελευταία φορά που το παιχνίδι είχε παιχτεί και τα τρόπαια ήταν συγχρονισμένα
+first_played: Παίχτηκε για πρώτη φορά
+times_played: Χρόνοι που παίχτηκαν
+last_trophy: Τελευταίο Τρόπαιο
+last_trophy_tooltip: Τελευταίο τρόπαιο που αποκτήθηκε σε κάθε τίτλο
+first_trophy: Πρώτο Τρόπαιο
+first_trophy_tooltip: Πρώτο τρόπαιο που αποκτήθηκε σε κάθε τίτλο
+trophy_gap: Κενό μεταξύ τροπαίων
+trophy_gap_tooltip: Κενό μεταξύ πρώτο και τελευταίο τρόπαιο που αποκτήθηκε σε κάθε τίτλο
+alphabetical: Αλφαβητικά
+completion_per: Ολοκλήρωση %
+completion: Ολοκλήρωση
+complete: Ολοκληρωμένο
+complete_tooltip: Παιχνίδια με 100% πρόοδο
+incomplete: Ελλιπής
+incomplete_tooltip: Παιχνίδια με λιγότερο από 100% πρόοδο
+order: Σειρά
+ascending: Αύξουσα σειρά
+ascending_tooltip: Α-Ω, χαμηλότερο-υψηλότερο, νωρίτερο-αργότερο
+descending: Φθίνουσα σειρά
+descending_tooltip: Ω-Α, υψηλότερο-χαμηλότερο, αργότερο-νωρίτερο
+platform: Πλατφόρμα
+
+#Trophies
+platinum: Πλάτινο
+gold: Χρυσό
+silver: Ασήμι
+bronze: Χάλκινο
+total_trophies: Σύνολο Τροπαίων
+no_trophies_found: Δεν βρέθηκε κανένα τρόπαιο
+
+#Alerts
+alert_success: Η εργασία ολοκληρώθηκε με επιτυχία!
+alert_error: Η εργασία δεν ολοκληρώθηκε με επιτυχία!
+alert_warning: Προειδοποίηση!
+alert_info: Το ήξερες?!
+alert_default: Αμμμμ!
+
+#Index Page
+latest_games: Τελευταία παιχνίδια
+latest_dlc: Τελευταία DLC
+
+#Games
+all_games: Όλα τα παιχνίδια
+total_games: Σύνολο Παιχνιδιών
+completed_games: Ολοκληρωμένα Παιχνίδια
+completed_on: Ολοκληρώθηκε στις
+last_played_on: Τελευταία φορά που παίχτηκε στις
+no_games_found: Δεν βρέθηκε κανένα παιχνίδι
+
+#Head
+site_name: Trophy Place
+layouts.title: '{title} - {site_name}'
+layouts.descrption: '{site_name} είναι η προτιμώμενη σου ιστοσελίδα για να παρακολουθείς όλα τα PSN τρόπαια σου'
+
+#Legal
+copyright: Πνευματικά Δικαιώματα © 2023 - Όλα τα δικαιώματα προστατεύονται απο το gaming.
+
+#Settings
+translate_the_site: Μετάφρασε την Ιστοσελίδα!
+
+#Misc (mostly single words)
+username: Όνομα Χρήστη
+email: Ηλεκτρονική Διεύθυνση
+password: Κωδικός πρόσβασης
+cancel: Ακύρωση
+submit: υποβολή
+welcome: Καλώς Ήρθατε
+hello: Γειά
+profile: Προφίλ
+page: Σελίδα
+options: Επιλογές
+contact: Επικοινωνία
+owner: Κάτοχος
+owners: Κάτοχοι
+average: Μέση τιμή
+search: Αναζήτηση
+all: Όλα
+in: σε
+language: Γλώσσα
+theme: Θέμα
+PLACEHOLDER: Σύμβολο Υποκατάστασης
+empty: ''

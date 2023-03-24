@@ -1,0 +1,103 @@
+#Navigation Bar
+login: تسجيل الدخول
+homepage: الصفحة الرئيسية
+home: البداية
+trophies: الجوائز
+games: الألعاب
+users: المستخدمين
+friends: الأصدقاء
+settings: الإعدادات
+feedback: اقتراحات
+change_theme: تغيير نمط الخلفية
+
+#Footer
+about_us: من نحن
+issues: المشاكل
+
+#User Games
+filter: تصفية
+sort_by: تصنيف
+last_played: آخر مرة تم لعبها
+last_played_tooltip: آخر مرة تم لعب اللعبة و مزامنة الجوائز
+first_played: لعبت لأول مرة
+times_played: عدد مرات اللعب
+last_trophy: آخر جائزة
+last_trophy_tooltip: آخر جائزة تم ربحها في كل لعبة
+first_trophy: أول جائزة
+first_trophy_tooltip: أول جائزة تم ربحها في كل لعبة
+trophy_gap: المدة بين الجائزة الأولى والأخيرة
+trophy_gap_tooltip: المدة بين الجائزة الأولى والأخيرة في كل لعبة
+alphabetical: ترتيب حسب الأبجدية
+completion_per: نسبة الاكتمال
+completion: الاكتمال
+complete: مكتمل
+complete_tooltip: العاب مكتملة 100%
+incomplete: غير مكتمل
+incomplete_tooltip: العاب غير مكتملة 100%
+order: ترتيب
+ascending: تصاعدياً
+ascending_tooltip: A-Z, من الأقل الى الأعلى, من الأول الى الآخر
+descending: تنازلياً
+descending_tooltip: Z-A, من الأعلى الى الأقل, من الآخر الى الأول
+platform: المنصة
+
+#Trophies
+platinum: بلاتينيوم
+gold: ذهبي
+silver: فضي
+bronze: برونز
+total_trophies: مجموع الجوائز
+no_trophies_found: لم يتم العثور على أي جوائز
+
+#Alerts
+alert_success: اكتملت المهمة بنجاح
+alert_error: المهمة فشلت
+alert_warning: تحذير!
+alert_info: هل تعلم؟
+alert_default: اوووووه!
+
+#Index Page
+latest_games: اخر الألعاب
+latest_dlc: اخر المحتويات الإضافية
+
+#Games
+all_games: كل الألعاب
+total_games: مجموع الألعاب
+completed_games: الألعاب المكتملة
+completed_on: اكتملت بتاريخ
+last_played_on: تم اللعب آخر مرة
+no_games_found: لم يتم العثور على أي لعبة
+
+#Head
+site_name: Trophy Place
+layouts.title: '{title} - {site_name}'
+layouts.descrption: '{site_name} هو موقعك المفضل لتعقب جوائز البلايستيشن PSN'
+
+#Legal
+copyright: جميع الحقوق محفوظة © 2023
+
+#Settings
+translate_the_site: ترجم الموقع
+
+#Misc (mostly single words)
+username: اسم المستخدم
+email: البريد الإلكتروني
+password: كلمة المرور
+cancel: إلغاء
+submit: دخول
+welcome: أهلاً وسهلاً
+hello: مرحبا
+profile: الحساب
+page: الصفحة
+options: الخيارات
+contact: تواصل
+owner: المعدل #reversed because of a display bug. This means "average"
+owners: المعدل #reversed because of a display bug. This means "owners"
+average: المالكون #reversed because of a display bug. This means "owners"
+search: بحث
+all: الكل
+in: في
+language: اللغة
+theme: نمط الخلفية
+PLACEHOLDER: المساحة المحجوزة
+empty: ''

@@ -19,6 +19,8 @@ filter: Show filters
 sort_by: Sort By
 last_played: Last Played
 last_played_tooltip: Last time the game was played and then trophies were synced
+first_played: First played
+times_played: Total played
 last_trophy: Last Trophy
 last_trophy_tooltip: Last trophy earned in each title
 first_trophy: First Trophy
@@ -39,12 +41,13 @@ descending: Descending
 descending_tooltip: Z-A, highest-lowest, latest-earliest
 platform: Platform
 
-#Trophies types
+#Trophies
 platinum: Platinum
 gold: Gold
 silver: Silver
 bronze: Bronze
 total_trophies: Total Trophies
+no_trophies_found: No Trophies Found #NEW
 
 #Alerts
 alert_success: Task completed succesfully!
@@ -63,6 +66,7 @@ total_games: Total Games
 completed_games: Completed Games
 completed_on: Completed on
 last_played_on: Last played on
+no_games_found: No Games Found
 
 #Head
 site_name: Trophy Place #Should not be translated?
@@ -88,6 +92,7 @@ page: Page
 options: Options
 contact: Contact
 owner: Owner
+owners: Owners
 average: Average
 search: Search
 all: All
@@ -96,9 +101,3 @@ language: Language
 theme: Theme
 PLACEHOLDER: PLACEHOLDER #because buttons im not sure i want to do with yet
 empty: '' #in case we need to translate a thing but it isn't always a thing
-
-#These are used in the setup process and not shown on the site
-#code: 'en', #This should be the ISO-639-1 code for your language https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-#iso: 'en-US', #This should be the same as above, plus region if needed ex. (pt-BR)
-#name: 'English', #The name of the language, in the language
-#file: 'en-US.yaml', #The filename, should be the same as iso above

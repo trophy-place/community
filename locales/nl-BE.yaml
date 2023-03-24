@@ -1,0 +1,103 @@
+#Navigation Bar
+login: Inloggen
+homepage: Thuis
+home: Start
+trophies: Trofeeën
+games: Spelen
+users: Gebruikers
+friends: Vrienden
+settings: Instellingen
+feedback: Feedback
+change_theme: Thema aanpassen
+
+#Footer
+about_us: Over ons
+issues: Problemen
+
+#User Games
+filter: Filters bekijken
+sort_by: Sorteer Op
+last_played: Laatst Gespeeld
+last_played_tooltip: Laatste keer dat het spel gespeeld was en de trofeeën gesynchroniseerd waren
+first_played: Voor het eerst gespeeld
+times_played: Tijden gespeeld
+last_trophy: Laaste Trofee
+last_trophy_tooltip: Laatste trofee verdiend in elke titel
+first_trophy: Eerste Trofee
+first_trophy_tooltip: Eerste trofee verdiend in elke titel
+trophy_gap: Tijd tussen de eerste en laaste trofee
+trophy_gap_tooltip: Tijd tussen de eerste en laaste trofee verdiend in een spel
+alphabetical: Alfabetisch
+completion_per: Voltooiing %
+completion: Voltooiin
+complete: Compleet
+complete_tooltip: Spelen met 100% voltooiing
+incomplete: Incompleet
+incomplete_tooltip: Spelen met minder dan 100% voltooiing
+order: Ordenen
+ascending: Oplopend
+ascending_tooltip: A-Z, laagste-hoogste, vroegste-laatste
+descending: Aflopend
+descending_tooltip: Z-A, hoogste-laagste, laatste - vroegste
+platform: Platform
+
+#Trophies
+platinum: Platinum
+gold: Goud
+silver: Zilver
+bronze: Brons
+total_trophies: Totale Trofeeën
+no_trophies_found: Geen trofeeën gevonden
+
+#Alerts
+alert_success: Taak succesvol afgewerkt
+alert_error: Taak succesvol mislukt
+alert_warning: Waarschuwing!
+alert_info: Wist je!?
+alert_default: Ummm!
+
+#Index Page
+latest_games: Laatste Spelen
+latest_dlc: Laatste DLC
+
+#Games
+all_games: Alle Spelen
+total_games: Totale Spelen
+completed_games: Complete Spelen
+completed_on: Voltooid op
+last_played_on: Laats gespeeld op
+no_games_found: Geen spelen gevonden
+
+#Head
+site_name: Trophy Place
+layouts.title: '{title} - {site_name}'
+layouts.descrption: '{site_name} is je gekozen website om alle psn trofeeën op te volgen'
+
+#Legal
+copyright: Copyright © 2023 - alle rechten voorbehouden door gaming
+
+#Settings
+translate_the_site: Vertaal de website!
+
+#Misc (mostly single words)
+username: Gebruikersnaam
+email: Email
+password: Wachtwoord
+cancel: Annuleren
+submit: Indienen
+welcome: Welkom
+hello: Hallo
+profile: Profiel
+page: Pagina
+options: Opties
+contact: Contact
+owner: Eigenaar
+owners: Eigenaren
+average: Gemiddeld
+search: Zoeken
+all: Alle
+in: in
+language: Taal
+theme: Thema
+PLACEHOLDER: Plaatshouder
+empty: ''

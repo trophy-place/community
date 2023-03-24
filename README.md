@@ -8,10 +8,16 @@ We currently only support translations, there will be more in the future!
 
 The site currently supports the following languages
 
-| Language             | Created by                                        |
-| -------------------- | ------------------------------------------------- |
-| English (US)         | [Mako](https://trophy.place/user/Derpy_Herpy_902) |
-| Português Brasileiro | [TheYuriG](https://trophy.place/user/TheYuriG)    |
+| Language                   | Created by                                                 |
+| -------------------------- | ---------------------------------------------------------- |
+| English (US)               | [Mako](https://trophy.place/user/Derpy_Herpy_902)          |
+| Português Brasileiro       | [TheYuriG](https://trophy.place/user/TheYuriG)             |
+| Ελληνικά (Greek)           | [Boss_Cipher](https://trophy.place/user/Boss_Cipher)       |
+| Nederlands (Belgium-Dutch) | [SharkPlushie](https://trophy.place/user/SharkPlushie)     |
+| Suomalainen (Finish)       | [totallycrushed](https://trophy.place/user/totallycrushed) |
+| Türkçe (Turkish)           | [emboliformis](https://trophy.place/user/emboliformis)     |
+| عربي (Arabic)              | [MohandGamer7](https://trophy.place/user/MohandGamer7)     |
+| Español (Spanish)          | [Argandalf_01](https://trophy.place/user/Argandalf_01)     |
 
 If you wish to add your own translation, you can do so by either copying the [locales/en-US.yaml](https://github.com/trophy-place/community/blob/main/locales/en-US.yaml) file or visiting the [Google Sheets](https://docs.google.com/spreadsheets/d/1CYc1FXg_VJVyd2lrpKriP0_7ujV57iVoYR9ZTKKAcsw/edit#gid=0) and translate it to the language you wish.
 

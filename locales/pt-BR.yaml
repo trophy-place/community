@@ -19,6 +19,8 @@ filter: Mostrar filtros
 sort_by: Organizar por
 last_played: Jogado Recentemente
 last_played_tooltip: Última vez que o jogo foi iniciado e foi sincronizado
+first_played: Jogado pela primeira vez
+times_played: Vezes jogado
 last_trophy: Troféus Recentes
 last_trophy_tooltip: Último troféu conquistado em cada jogo
 first_trophy: Primeiro Troféu
@@ -45,6 +47,7 @@ gold: Ouro
 silver: Prata
 bronze: Bronze
 total_trophies: Total de troféus
+no_trophies_found: Nenhum troféu encontrado
 
 #Alerts
 alert_success: Sucesso!
@@ -63,6 +66,7 @@ total_games: Jogos Totais
 completed_games: Jogos Concluídos
 completed_on: Concluído em
 last_played_on: Jogado em
+no_games_found: Nenhum jogo encontrado
 
 #Header
 site_name: Trophy Place #Should not be translated?
@@ -89,6 +93,7 @@ page: Página
 options: Opções
 contact: Contato
 owner: Dono
+owners: Donos
 average: Média
 search: Pesquisar
 all: Todos
@@ -97,10 +102,3 @@ language: Idioma
 theme: Tema
 PLACEHOLDER: RESERVADO #because buttons im not sure i want to do with yet
 empty: '' #in case we need to translate a thing but it isn't always a thing
-
-
-#These are used in the setup process and not shown on the site
-#code: 'pt-BR', #This should be the ISO-639-1 code for your language https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-#iso: 'pt-BR', #This should be the same as above, plus region if needed ex. (pt-BR)
-#name: 'English', #The name of the language, in the language
-#file: 'pt-BR.yaml', #The filename, should be the same as iso above

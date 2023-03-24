@@ -1,0 +1,104 @@
+#Navigation Bar
+login: Acceso
+homepage: Página principal
+home: Inicio
+trophies: Trofeos
+games: Juegos
+users: Usuarios
+friends: Amigos
+settings: Configuración
+feedback: Sugerencias
+change_theme: Cambiar el tema
+
+#Footer
+about_us: Sobre nosotros
+issues: Problemas
+
+#User Games
+filter: Mostrar Filtros
+sort_by: Ordenar por
+last_played: Jugado Recientemente
+last_played_tooltip: Última vez que se ha jugado y sincronizado el juego
+first_played: Primero jugado
+times_played: Veces jugados
+last_trophy: Último Trofeo
+last_trophy_tooltip: Último trofeo conseguido en cada juego
+first_trophy: Primer Trofeo
+first_trophy_tooltip: Primer trofeo ganado en cada juego
+trophy_gap: Tiempo entre el primer y último trofeo
+trophy_gap_tooltip: Tiempo transcurrido entre el primer y el último trofeo obtenido en cada juego
+alphabetical: Alfabético
+completion_per: % Completado
+completion: Finalización
+complete: Completo
+complete_tooltip: Juegos con un progreso del 100%
+incomplete: Incompleto
+incomplete_tooltip: Juegos con un progreso menor del 100%
+order: Orden
+ascending: Ascendente
+ascending_tooltip: A-Z, menor-mayor, primero-último
+descending: Descendente
+descending_tooltip: Z-A, mayor-menor, último-primero
+platform: Plataforma
+
+#Trophies
+platinum: Platino
+gold: Oro
+silver: Plata
+bronze: Bronce
+total_trophies: Trofeos Totales
+no_trophies_found: No se encontraron Trofeos
+
+#Alerts
+alert_success: ¡Tarea completada con éxito!
+alert_error: ¡Tarea fallida con éxito!
+alert_warning: ¡Advertencia!
+alert_info: ¿Sabías qué...?
+alert_default: ¡Aaaah!
+
+#Index Page
+latest_games: Últimos juegos
+latest_dlc: Últimos DLC
+
+#Games
+all_games: Todos los juegos
+total_games: Total de juegos
+completed_games: Juegos Completados
+completed_on: Completado el
+last_played_on: Jugado por última vez el
+no_games_found: No se han encontrado juegos
+
+#Header
+site_name: Trophy Place #Should not be translated?
+layouts.title: '{title} - {site_name}'
+layouts.descrption: '{site_name} es tu página favorita para dar seguimiento a todos los trofeos de PSN'
+
+#Legal
+copyright: Copyright © 2023 - Todos los derechos reservados por gaming.
+
+
+#Settings
+translate_the_site: ¡Traduce la página web!
+
+#Misc (mostly single words)
+username: Nombre de usuario
+email: Correo electrónico
+password: Contraseña
+cancel: Cancelar
+submit: Enviar
+welcome: Bienvenido
+hello: Hola
+profile: Perfil
+page: Página
+options: Opciones
+contact: Contacto
+owner: Personas lo tienen
+owners: Personas lo tienen
+average: Promedio
+search: Búsqueda
+all: Todos
+in: en
+language: Idioma
+theme: Tema
+PLACEHOLDER: Espacio Reservado
+empty: ''

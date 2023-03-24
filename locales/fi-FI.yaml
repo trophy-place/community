@@ -1,0 +1,103 @@
+#Navigation Bar
+login: Kirjaudu sisään
+homepage: Etusivu
+home: Koti
+trophies: Trophyt
+games: Pelit
+users: Käyttäjät
+friends: Ystävät
+settings: Asetukset
+feedback: Palaute
+change_theme: Vaihda teemaa
+
+#Footer
+about_us: Keitä olemme
+issues: Ongelmat
+
+#User Games
+filter: Näytä suodattimet
+sort_by: Järjestä
+last_played: Viimeksi pelattu
+last_played_tooltip: Viimeksi pelattu ja synkronoitu
+first_played: Pelattu ensin
+times_played: Pelattu yhteensä
+last_trophy: Viimeisin trophy
+last_trophy_tooltip: Viimeisin trophy ansaittu jokaisessa pelissä
+first_trophy: Ensimmäinen trophy
+first_trophy_tooltip: Ensimmäinen trophy ansaittu jokaisessa pelissä
+trophy_gap: Trophyjen aikaväli
+trophy_gap_tooltip: Ensimmäisen ja viimeisen ansaitun trophyn aikaväli
+alphabetical: Aakkosjärjestyksessä
+completion_per: Suoritus %
+completion: Suoritus
+complete: Suoritettu
+complete_tooltip: 100% Suoritetut pelit
+incomplete: Keskeneräinen
+incomplete_tooltip: Pelit alle 100% suoritettu
+order: Järjestys
+ascending: Nouseva
+ascending_tooltip: A-Z, ylin-alin, viimeisin-vanhin
+descending: Laskeva
+descending_tooltip: Z-A. alin-ylin, vanhin-viimeisin
+platform: Alusta
+
+#Trophies
+platinum: Platina
+gold: Kulta
+silver: Hopea
+bronze: Pronssi
+total_trophies: Trophyjen kokonaismäärä
+no_trophies_found: Ei löydetty trophyja
+
+#Alerts
+alert_success: Tehtävä suoritettu onnistuneesti
+alert_error: Tehtävä epäonnistui onnistuneesti
+alert_warning: Varoitus!
+alert_info: Tiesitkö?!
+alert_default: Hups!
+
+#Index Page
+latest_games: Viimeisimmät pelit
+latest_dlc: Viimeisimmät DLCt
+
+#Games
+all_games: Kaikki pelit
+total_games: Kaikkien pelien yhteissumma
+completed_games: Suoritetut pelit
+completed_on: Suoritettu
+last_played_on: Viimeksi pelattu
+no_games_found: Pelejä ei löydetty
+
+#Head
+site_name: Trophy Place
+layouts.title: '{title} - {site_name}'
+layouts.descrption: '{site_name} on sinun mieluisin paikka seurata kaikkia PSN trophyja'
+
+#Legal
+copyright: Copyright © 2023 - Kaikki oikeudet pidätetään pelaamalla.
+
+#Settings
+translate_the_site: Käännä sivu!
+
+#Misc (mostly single words)
+username: Käyttäjänimi
+email: Sähköposti
+password: Salasana
+cancel: Peruuta
+submit: Lähetä
+welcome: Tervetuloa
+hello: Hei
+profile: Profiili
+page: Sivu
+options: Asetukset
+contact: Ota yhteyttä
+owner: Omistaja
+owners: Omistajat
+average: Keskimäärä
+search: Haku
+all: Kaikki
+in: Ajassa
+language: Kieli
+theme: Teema
+PLACEHOLDER: Paikanpitäjä
+empty: ''
