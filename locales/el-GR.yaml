@@ -70,6 +70,22 @@ silver: Ασήμι
 bronze: Χάλκινο
 total_trophies: Σύνολο Τροπαίων
 no_trophies_found: Δεν βρέθηκε κανένα τρόπαιο
+trophy_type: Trophy Type #NEW
+rarity: Rarity #NEW
+prestige: Prestige #NEW
+prestige_tooltip: Trophies below 1% rarity #NEW
+ultrarare: Ultra Rare #NEW
+ultrarare_tooltip: Trophies above 1% and below 5% rarity #NEW
+veryrare: Very Rare #NEW
+veryrare_tooltip: Trophies above 5% and below 15% rarity #NEW
+rare: Rare #NEW
+rare_tooltip: Trophies above 15% and below 25% rarity #NEW
+uncommon: Uncommon #NEW
+uncommon_tooltip: Trophies above 25% and below 50% rarity #NEW
+common: Common #NEW
+common_tooltip: Trophies above 50% rarity #NEW
+sony_tracking: Sony Tracking #NEW
+sony_tracking_tooltip: Games that have progress tracking from sony #NEW
 
 #Alerts
 alert_success: Η εργασία ολοκληρώθηκε με επιτυχία!
@@ -123,5 +139,7 @@ language: Γλώσσα
 theme: Θέμα
 only: Only #NEW
 none: None #NEW
+on: 'On' #NEW
+off: 'Off' #NEW
 PLACEHOLDER: Σύμβολο Υποκατάστασης
 empty: ''
