@@ -20,7 +20,7 @@ sort_by: Sort By
 last_played: Last Played
 last_played_tooltip: Last time the game was played and then trophies were synced
 first_played: First played
-times_played: Total played
+times_played: Times played #NEW
 last_trophy: Last Trophy
 last_trophy_tooltip: Last trophy earned in each title
 first_trophy: First Trophy
@@ -60,6 +60,8 @@ both: Both #NEW
 both_tooltip: Games with both Competitive and Cooperative tags #NEW
 some: Some #NEW
 some_tooltip: Games with either Competitive tag or Cooperative tag #NEW
+ezpz: EZPZ #NEW
+ezpz_tooltip: Games with the EZPZ tag #NEW
 
 #Trophies
 platinum: Platinum

@@ -60,6 +60,8 @@ both: Both #NEW
 both_tooltip: Games with both Competitive and Cooperative tags #NEW
 some: Some #NEW
 some_tooltip: Games with either Competitive tag or Cooperative tag #NEW
+ezpz: EZPZ #NEW
+ezpz_tooltip: Games with the EZPZ tag #NEW
 
 #Trophies
 platinum: Platina
