@@ -106,11 +106,10 @@ completed_on: 完全したのは
 last_played_on: 最近にプレイしたのは
 no_games_found: ゲームが見つかではありません
 
-
 #Head
 site_name: Trophy Place #Should not be translated?
 layouts.title: '{title} - {site_name}'
-layouts.descrption: {site_name} はあなたの優先がウェブサイトを追跡全部PSNトロフィー'
+layouts.descrption: '{site_name} はあなたの優先がウェブサイトを追跡全部PSNトロフィー'
 
 #Legal
 copyright: 著作権 © 2023年 - 全著作権所有のgaming以って
