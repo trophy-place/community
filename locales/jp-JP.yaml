@@ -1,0 +1,146 @@
+#Navigation Bar
+login: ログイン
+homepage: ホームページ
+home: ホーム
+trophies: トロフィー
+games: ゲーム
+users: ユーザー
+friends: フレンド
+settings: 設定
+feedback: フィードバック
+change_theme: テーマを変更
+
+#Footer
+about_us: 私たちについて
+issues: 問題を報告
+
+#User Games
+filter: フィルターを表示
+sort_by: 通るを並べ替え
+last_played: 最近にプレイした
+last_played_tooltip: 最終に時間はプレイしたとトロフィーはシンクした
+first_played: 初にプレイした
+times_played: プレイ回数
+last_trophy: 最近にトロフィー
+last_trophy_tooltip: 各ゲームで手に入れるした最後のトロフィー
+first_trophy: 初にトロフィー
+first_trophy_tooltip: 各ゲームで手に入れるした初のトロフィー
+trophy_gap: トロフィーギャップ
+trophy_gap_tooltip: 間のギャップ手に入れるした初と最後のトロフィーに銘々ゲーム
+alphabetical: アルファベット順
+completion_per: 完成 %
+completion: 完成
+complete: 完成
+complete_tooltip: 進捗が 100% のゲーム
+incomplete: 未完成
+incomplete_tooltip: 進捗が 100% 未満のゲーム
+order: 順
+ascending: 昇順
+ascending_tooltip: A-Z、最低～最高、最古～最新
+descending: 降順
+descending_tooltip: Z-A、最高～最低、最新～最古
+platform: プラットフォーム
+series: シリーズ
+series_tooltip: シリーズでゲームを見せる
+impossible: インポッシブル
+impossible_tooltip: インポッシブルゲームを見せる
+delisted: 上場廃止した
+delisted_tooltip: 上場廃止したゲームを見せる
+dlc: ダウンロードコンテンツ
+dlc_tooltip: ダウンロードコンテンツ含むゲームを見せる
+platinum_tooltip: プラチナ含むゲームを見せる
+stacks: スタック
+stacks_tooltip: スタック含むゲームを見せる
+online: オンライン
+versus: 対
+versus_tooltip: 要するPvPをゲームを見せる
+coop: コープ
+coop_tooltip: コープ含むゲームを見せる
+both: 何方も
+both_tooltip: 何方もの競争力含むとコープ含むゲームを見せる
+some: 若干
+some_tooltip: 競争力含む又はコープ含むゲームを見せる
+ezpz: 易い
+ezpz_tooltip: 易いゲームを見せる
+
+#Trophies
+platinum: プラチナ
+gold: ゴールド
+silver: シルバー
+bronze: ブロンズ
+total_trophies: トロフィーが総計
+no_trophies_found: トロフィーが見つかではありません
+trophy_type: トロフィー タイプ
+rarity: レア度
+prestige: 威信
+prestige_tooltip: レア度 1% 未満のトロフィー
+ultrarare: 超レア
+ultrarare_tooltip: レア度 1% と 5% 間のトロフィー
+veryrare: とてもレア
+veryrare_tooltip: レア度 5% と 15% 間のトロフィー
+rare: 珍しい
+rare_tooltip: レア度 15% と 25% 間のトロフィー
+uncommon: レア
+uncommon_tooltip: レア度 25% と 50% 間のトロフィー
+common: ふつう
+common_tooltip: レア度 50% 以上のトロフィー
+sony_tracking: ソニー追跡
+sony_tracking_tooltip: ソニーからの進捗追跡があるゲーム
+
+#Alerts
+alert_success: タスクが首尾よくに完了しました！
+alert_error: タスクが首尾よくにしくじるしました！
+alert_warning: 警告！
+alert_info: 知ってますか
+alert_default: えっと
+
+#Index Page
+latest_games: 最新のゲーム
+latest_dlc: 最新のダウンロードコンテンツ
+
+#Games
+all_games: ゲームが全部
+total_games: ゲームが総計
+completed_games: ゲームが完全した
+completed_on: 完全したのは
+last_played_on: 最近にプレイしたのは
+no_games_found: ゲームが見つかではありません
+
+
+#Head
+site_name: Trophy Place #Should not be translated?
+layouts.title: '{title} - {site_name}'
+layouts.descrption: {site_name} はあなたの優先がウェブサイトを追跡全部PSNトロフィー'
+
+#Legal
+copyright: 著作権 © 2023年 - 全著作権所有のgaming以って
+
+#Settings
+translate_the_site: ウェブサイトを翻訳！
+
+#Misc (mostly single words)
+username: ユーザー名
+email: 電子メール
+password: パスワード
+cancel: キャンセル
+submit: 提出
+welcome: ようこそ
+hello: こんにちは
+profile: プロフィール
+page: ページ
+options: オプション
+contact: コンタクト
+owner: オーナー
+owners: オーナー
+average: 並
+search: 検索
+all: 全部
+in: に
+language: 言語
+theme: テーマ
+only: 丈
+none: 何れにも
+on: オン
+off: オフ
+PLACEHOLDER: プレースホルダー
+empty: '' #in case we need to translate a thing but it isn't always a thing

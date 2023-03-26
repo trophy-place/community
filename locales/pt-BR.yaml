@@ -19,7 +19,7 @@ filter: Mostrar filtros
 sort_by: Organizar por
 last_played: Jogado Recentemente
 last_played_tooltip: Última vez que o jogo foi iniciado e foi sincronizado
-first_played: Jogado pela primeira vez
+first_played: Primeira Jogada
 times_played: Vezes jogado
 last_trophy: Troféus Recentes
 last_trophy_tooltip: Último troféu conquistado em cada jogo
@@ -40,28 +40,28 @@ ascending_tooltip: A-Z, menor-maior, primeiro-último
 descending: Descendente
 descending_tooltip: Z-A, maior-menor, último-primeiro
 platform: Platforma
-series: Series #NEW
-series_tooltip: Display games in series #NEW
-impossible: Impossible #NEW
-impossible_tooltip: Display impossible games #NEW
-delisted: Delisted #NEW
-delisted_tooltip: Display delisted games #NEW
-dlc: DLC #NEW
-dlc_tooltip: Display games with DLC #NEW
-platinum_tooltip: Display games with Platinums #NEW
-stacks: Stacks #NEW
-stacks_tooltip: Display games with stacks #NEW
-online: Online #NEW 
-versus: Versus #NEW
-versus_tooltip: Games with the competitive tag #NEW
-coop: Co-op #NEW
-coop_tooltip: Games with the cooperative tag #NEW
-both: Both #NEW
-both_tooltip: Games with both Competitive and Cooperative tags #NEW
-some: Some #NEW
-some_tooltip: Games with either Competitive tag or Cooperative tag #NEW
-ezpz: EZPZ #NEW
-ezpz_tooltip: Games with the EZPZ tag #NEW
+series: Séries
+series_tooltip: Mostrar jogos que fazem parte de uma série
+impossible: Impossível
+impossible_tooltip: Mostrar jogos que não são mais possíveis de completar
+delisted: Indisponível
+delisted_tooltip: Mostrar jogos que não dá mais pra comprar
+dlc: DLC
+dlc_tooltip: Mostrar jogos com Conteúdo Adicional
+platinum_tooltip: Mostrar jogos que tem um troféu de platina
+stacks: Gêmeos
+stacks_tooltip: Mostrar jogos que tem uma lista muito parecida ou igual
+online: Online
+versus: Competitivo/PvP
+versus_tooltip: Jogos que tem troféus relacionados aos modos de jogador contra jogador
+coop: Cooperativo/PvE
+coop_tooltip: Jogos que tem troféus relacionados aos modos de grupos de jogadores contra IA
+both: Ambos
+both_tooltip: Tanto jogos PvE quanto jogos PvE
+some: Qualquer um
+some_tooltip: Tanto jogos PvE OU jogos PvE
+ezpz: Garapa
+ezpz_tooltip: Jogos que não precisam de habilidade para platinar
 
 #Trophies
 platinum: Platina
@@ -70,22 +70,22 @@ silver: Prata
 bronze: Bronze
 total_trophies: Total de troféus
 no_trophies_found: Nenhum troféu encontrado
-trophy_type: Trophy Type #NEW
-rarity: Rarity #NEW
-prestige: Prestige #NEW
-prestige_tooltip: Trophies below 1% rarity #NEW
-ultrarare: Ultra Rare #NEW
-ultrarare_tooltip: Trophies above 1% and below 5% rarity #NEW
-veryrare: Very Rare #NEW
-veryrare_tooltip: Trophies above 5% and below 15% rarity #NEW
-rare: Rare #NEW
-rare_tooltip: Trophies above 15% and below 25% rarity #NEW
-uncommon: Uncommon #NEW
-uncommon_tooltip: Trophies above 25% and below 50% rarity #NEW
-common: Common #NEW
-common_tooltip: Trophies above 50% rarity #NEW
-sony_tracking: Sony Tracking #NEW
-sony_tracking_tooltip: Games that have progress tracking from sony #NEW
+trophy_type: Tipo de Troféu
+rarity: Raridade
+prestige: Prestígio
+prestige_tooltip: Troféus abaixo de 1% de raridade
+ultrarare: Ultra raro
+ultrarare_tooltip: Troféus entre 1% e 5% de raridade
+veryrare: Muito Raro
+veryrare_tooltip: Troféus entre 5% e 15% de raridade
+rare: Raro
+rare_tooltip: Troféus entre 15% e 25% de raridade
+uncommon: Incomum
+uncommon_tooltip: Troféus entre 25% e 50% de raridade
+common: Comum
+common_tooltip: Troféus acima de 50% de raridade
+sony_tracking: Contador da Sony
+sony_tracking_tooltip: Troféus com contadores de progresso criados pelos desenvolvedores dos jogos
 
 #Alerts
 alert_success: Sucesso!
@@ -138,9 +138,9 @@ all: Todos
 in: em
 language: Idioma
 theme: Tema
-only: Only #NEW
-none: None #NEW
-on: 'On' #NEW
-off: 'Off' #NEW
+only: Apenas
+none: Nenhum
+on: Ativar
+off: Desativar
 PLACEHOLDER: RESERVADO #because buttons im not sure i want to do with yet
 empty: '' #in case we need to translate a thing but it isn't always a thing

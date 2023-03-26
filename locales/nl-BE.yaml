@@ -3,7 +3,7 @@ login: Inloggen
 homepage: Thuis
 home: Start
 trophies: Trofeeën
-games: Spelen
+games: Spellen
 users: Gebruikers
 friends: Vrienden
 settings: Instellingen
@@ -31,9 +31,9 @@ alphabetical: Alfabetisch
 completion_per: Voltooiing %
 completion: Voltooiin
 complete: Compleet
-complete_tooltip: Spelen met 100% voltooiing
+complete_tooltip: Spellen met 100% voltooiing
 incomplete: Incompleet
-incomplete_tooltip: Spelen met minder dan 100% voltooiing
+incomplete_tooltip: Spellen met minder dan 100% voltooiing
 order: Ordenen
 ascending: Oplopend
 ascending_tooltip: A-Z, laagste-hoogste, vroegste-laatste
@@ -95,16 +95,16 @@ alert_info: Wist je!?
 alert_default: Ummm!
 
 #Index Page
-latest_games: Laatste Spelen
+latest_games: Laatste Spellen
 latest_dlc: Laatste DLC
 
 #Games
-all_games: Alle Spelen
-total_games: Totale Spelen
-completed_games: Complete Spelen
+all_games: Alle Spellen
+total_games: Totale Spellen
+completed_games: Complete Spellen
 completed_on: Voltooid op
 last_played_on: Laats gespeeld op
-no_games_found: Geen spelen gevonden
+no_games_found: Geen spellen gevonden
 
 #Head
 site_name: Trophy Place
