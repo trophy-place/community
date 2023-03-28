@@ -57,6 +57,7 @@ versus: Versus #NEW
 versus_tooltip: Games with the competitive tag #NEW
 coop: Co-op #NEW
 coop_tooltip: Games with the cooperative tag #NEW
+versuscoop: 'Versus/Co-op'
 both: Both #NEW
 both_tooltip: Games with both Competitive and Cooperative tags #NEW
 some: Some #NEW

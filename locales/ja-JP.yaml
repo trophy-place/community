@@ -57,6 +57,7 @@ versus: 対
 versus_tooltip: 要するPvPをゲームを見せる
 coop: コープ
 coop_tooltip: コープ含むゲームを見せる
+versuscoop: '対/コープ'
 both: 何方も
 both_tooltip: 何方もの競争力含むとコープ含むゲームを見せる
 some: 若干

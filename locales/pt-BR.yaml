@@ -57,6 +57,7 @@ versus: Competitivo/PvP
 versus_tooltip: Jogos que tem troféus relacionados aos modos de jogador contra jogador
 coop: Cooperativo/PvE
 coop_tooltip: Jogos que tem troféus relacionados aos modos de grupos de jogadores contra IA
+versuscoop: "Competitivo/Cooperativo"
 both: Ambos
 both_tooltip: Tanto jogos PvE quanto jogos PvE
 some: Qualquer um
