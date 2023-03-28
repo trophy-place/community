@@ -9,7 +9,7 @@ friends: Amigos
 settings: Configuración
 feedback: Sugerencias
 change_theme: Cambiar el tema
-close: Close #New
+close: Cerrar
 
 #Footer
 about_us: Sobre nosotros
@@ -28,7 +28,7 @@ first_trophy: Primer Trofeo
 first_trophy_tooltip: Primer trofeo ganado en cada juego
 trophy_gap: Tiempo entre el primer y último trofeo
 trophy_gap_tooltip: Tiempo transcurrido entre el primer y el último trofeo obtenido en cada juego
-alphabetical: Alfabético
+alphabetical: Orden Alfabético
 completion_per: % Completado
 completion: Finalización
 complete: Completo
@@ -41,29 +41,29 @@ ascending_tooltip: A-Z, menor-mayor, primero-último
 descending: Descendente
 descending_tooltip: Z-A, mayor-menor, último-primero
 platform: Plataforma
-series: Series #NEW
-series_tooltip: Display games in series #NEW
-impossible: Impossible #NEW
-impossible_tooltip: Display impossible games #NEW
-delisted: Delisted #NEW
-delisted_tooltip: Display delisted games #NEW
-dlc: DLC #NEW
-dlc_tooltip: Display games with DLC #NEW
-platinum_tooltip: Display games with Platinums #NEW
-stacks: Stacks #NEW
-stacks_tooltip: Display games with stacks #NEW
-online: Online #NEW 
-versus: Versus #NEW
-versus_tooltip: Games with the competitive tag #NEW
-coop: Co-op #NEW
-coop_tooltip: Games with the cooperative tag #NEW
-versuscoop: 'Versus/Co-op'
-both: Both #NEW
-both_tooltip: Games with both Competitive and Cooperative tags #NEW
-some: Some #NEW
-some_tooltip: Games with either Competitive tag or Cooperative tag #NEW
-ezpz: EZPZ #NEW
-ezpz_tooltip: Games with the EZPZ tag #NEW
+series: Series
+series_tooltip: Mostrar los juegos de la serie
+impossible: Imposible
+impossible_tooltip: Mostrar juegos Imposibles
+delisted: No Disponible
+delisted_tooltip: Mostrar juegos no disponibles
+dlc: DLC
+dlc_tooltip: Mostrar juegos con DLC
+platinum_tooltip: Mostrar juegos que tienen Platino
+stacks: Lista de trofeos acumulables
+stacks_tooltip: Mostrar juegos con listas de trofeos acumulables
+online: Online
+versus: Competitivo / PVP
+versus_tooltip: Juegos con trofeos en modo competitivo o PVP
+coop: Cooperativo / PVE
+coop_tooltip: Juegos con etiqueta de modo cooperativo / PVE
+versuscoop: Competitivo / Cooperativo
+both: Ambos
+both_tooltip: Juegos con etiquetas de competitivo y cooperativo
+some: Varios
+some_tooltip: Juegos con la etiqueta competitivo o cooperativo
+ezpz: Muy fácil
+ezpz_tooltip: Juegos con la etiqueta de Muy Fácil
 
 #Trophies
 platinum: Platino
@@ -72,22 +72,22 @@ silver: Plata
 bronze: Bronce
 total_trophies: Trofeos Totales
 no_trophies_found: No se encontraron Trofeos
-trophy_type: Trophy Type #NEW
-rarity: Rarity #NEW
-prestige: Prestige #NEW
-prestige_tooltip: Trophies below 1% rarity #NEW
-ultrarare: Ultra Rare #NEW
-ultrarare_tooltip: Trophies above 1% and below 5% rarity #NEW
-veryrare: Very Rare #NEW
-veryrare_tooltip: Trophies above 5% and below 15% rarity #NEW
-rare: Rare #NEW
-rare_tooltip: Trophies above 15% and below 25% rarity #NEW
-uncommon: Uncommon #NEW
-uncommon_tooltip: Trophies above 25% and below 50% rarity #NEW
-common: Common #NEW
-common_tooltip: Trophies above 50% rarity #NEW
-sony_tracking: Sony Tracking #NEW
-sony_tracking_tooltip: Games that have progress tracking from sony #NEW
+trophy_type: Tipo de trofeo
+rarity: Rareza
+prestige: Prestigio
+prestige_tooltip: Trofeos con menos del 1% de rareza
+ultrarare: Ultra Raro
+ultrarare_tooltip: Trofeos entre un 1% - 5% de rareza
+veryrare: Muy Raro
+veryrare_tooltip: Trofeos entre un 5% - 15% de rareza
+rare: Raro
+rare_tooltip: Trofeos entre 15% - 25% de rareza
+uncommon: Poco Común
+uncommon_tooltip: Trofeos entre 25% - 50% de rareza
+common: Común
+common_tooltip: Trofeos con más de un 50% de rareza
+sony_tracking: Registro de Sony
+sony_tracking_tooltip: Juegos que tienen un registro de progreso de Sony
 
 #Alerts
 alert_success: ¡Tarea completada con éxito!
@@ -140,9 +140,9 @@ all: Todos
 in: en
 language: Idioma
 theme: Tema
-only: Only #NEW
-none: None #NEW
-on: 'On' #NEW
-off: 'Off' #NEW
+only: Únicamente
+none: Ninguno
+on: Activar
+off: Desactivar
 PLACEHOLDER: Espacio Reservado
 empty: ''
