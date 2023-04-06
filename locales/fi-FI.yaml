@@ -98,6 +98,12 @@ alert_info: Tiesitkö?!
 alert_default: Hups!
 
 #Index Page
+welcome: Welcome to Trophy Place
+report: Feel free to report any issues on our
+discord_server: Discord server
+users_tracked: Users tracked
+trophies_tracked: Trophies tracked
+games_tracked: Games tracked
 latest_games: Viimeisimmät pelit
 latest_dlc: Viimeisimmät DLCt
 
@@ -136,7 +142,6 @@ email: Sähköposti
 password: Salasana
 cancel: Peruuta
 submit: Lähetä
-welcome: Tervetuloa
 hello: Hei
 profile: Profiili
 page: Sivu

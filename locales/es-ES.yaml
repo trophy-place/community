@@ -98,6 +98,9 @@ alert_info: ¿Sabías qué...?
 alert_default: ¡Aaaah!
 
 #Index Page
+welcome: Welcome to Trophy Place
+report: Feel free to report any issues on our
+discord_server: Discord server
 latest_games: Últimos juegos
 latest_dlc: Últimos DLC
 
@@ -137,7 +140,6 @@ email: Correo electrónico
 password: Contraseña
 cancel: Cancelar
 submit: Enviar
-welcome: Bienvenido
 hello: Hola
 profile: Perfil
 page: Página

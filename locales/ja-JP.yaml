@@ -98,6 +98,9 @@ alert_info: 知ってますか
 alert_default: えっと
 
 #Index Page
+welcome: Welcome to Trophy Place
+report: Feel free to report any issues on our
+discord_server: Discord server
 latest_games: 最新のゲーム
 latest_dlc: 最新のダウンロードコンテンツ
 
@@ -136,7 +139,6 @@ email: 電子メール
 password: パスワード
 cancel: キャンセル
 submit: 提出
-welcome: ようこそ
 hello: こんにちは
 profile: プロフィール
 page: ページ

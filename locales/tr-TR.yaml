@@ -98,6 +98,9 @@ alert_info: Biliyor Muydunuz?!
 alert_default: Aahh!
 
 #Index Page
+welcome: Welcome to Trophy Place
+report: Feel free to report any issues on our
+discord_server: Discord server
 latest_games: Son Oyunlar
 latest_dlc: Son DLC
 
@@ -136,7 +139,6 @@ email: E-posta
 password: Şifre
 cancel: İptal
 submit: Gönder
-welcome: Hoş Geldiniz
 hello: Merhaba
 profile: Profil
 page: Sayfa

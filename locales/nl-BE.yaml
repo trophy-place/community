@@ -98,6 +98,9 @@ alert_info: Wist je!?
 alert_default: Ummm!
 
 #Index Page
+welcome: Welcome to Trophy Place
+report: Feel free to report any issues on our
+discord_server: Discord server
 latest_games: Laatste Spellen
 latest_dlc: Laatste DLC
 
@@ -136,7 +139,6 @@ email: Email
 password: Wachtwoord
 cancel: Annuleren
 submit: Indienen
-welcome: Welkom
 hello: Hallo
 profile: Profiel
 page: Pagina

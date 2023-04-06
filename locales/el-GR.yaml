@@ -98,6 +98,9 @@ alert_info: Το ήξερες?!
 alert_default: Αμμμμ!
 
 #Index Page
+welcome: Welcome to Trophy Place
+report: Feel free to report any issues on our
+discord_server: Discord server
 latest_games: Τελευταία παιχνίδια
 latest_dlc: Τελευταία DLC
 
@@ -136,7 +139,6 @@ email: Ηλεκτρονική Διεύθυνση
 password: Κωδικός πρόσβασης
 cancel: Ακύρωση
 submit: υποβολή
-welcome: Καλώς Ήρθατε
 hello: Γειά
 profile: Προφίλ
 page: Σελίδα
