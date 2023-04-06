@@ -16,12 +16,13 @@ about_us: About us
 issues: Issues
 
 #User Games
+backlog: Backlog
 filter: Show filters
 sort_by: Sort By
 last_played: Last Played
 last_played_tooltip: Last time the game was played and then trophies were synced
 first_played: First played
-times_played: Times played #NEW
+times_played: Times played
 last_trophy: Last Trophy
 last_trophy_tooltip: Last trophy earned in each title
 first_trophy: First Trophy
@@ -41,29 +42,29 @@ ascending_tooltip: A-Z, lowest-highest, earliest-latest
 descending: Descending
 descending_tooltip: Z-A, highest-lowest, latest-earliest
 platform: Platform
-series: Series #NEW
-series_tooltip: Display games in series #NEW
-impossible: Impossible #NEW
-impossible_tooltip: Display impossible games #NEW
-delisted: Delisted #NEW
-delisted_tooltip: Display delisted games #NEW
-dlc: DLC #NEW
-dlc_tooltip: Display games with DLC #NEW
-platinum_tooltip: Display games with Platinums #NEW
-stacks: Stacks #NEW
-stacks_tooltip: Display games with stacks #NEW
-online: Online #NEW 
-versus: Versus #NEW
-versus_tooltip: Games with the competitive tag #NEW
-coop: Co-op #NEW
-coop_tooltip: Games with the cooperative tag #NEW
+series: Series
+series_tooltip: Display games in series
+impossible: Impossible
+impossible_tooltip: Display impossible games
+delisted: Delisted
+delisted_tooltip: Display delisted games
+dlc: DLC
+dlc_tooltip: Display games with DLC
+platinum_tooltip: Display games with Platinums
+stacks: Stacks
+stacks_tooltip: Display games with stacks
+online: Online 
+versus: Versus
+versus_tooltip: Games with the competitive tag
+coop: Co-op
+coop_tooltip: Games with the cooperative tag
 versuscoop: 'Versus/Co-op'
-both: Both #NEW
-both_tooltip: Games with both Competitive and Cooperative tags #NEW
-some: Some #NEW
-some_tooltip: Games with either Competitive tag or Cooperative tag #NEW
-ezpz: EZPZ #NEW
-ezpz_tooltip: Games with the EZPZ tag #NEW
+both: Both
+both_tooltip: Games with both Competitive and Cooperative tags
+some: Some
+some_tooltip: Games with either Competitive tag or Cooperative tag
+ezpz: EZPZ
+ezpz_tooltip: Games with the EZPZ tag
 
 #Trophies
 platinum: Platinum
@@ -72,22 +73,22 @@ silver: Silver
 bronze: Bronze
 total_trophies: Total Trophies
 no_trophies_found: No Trophies Found
-trophy_type: Trophy Type #NEW
-rarity: Rarity #NEW
-prestige: Prestige #NEW
-prestige_tooltip: Trophies below 1% rarity #NEW
-ultrarare: Ultra Rare #NEW
-ultrarare_tooltip: Trophies above 1% and below 5% rarity #NEW
-veryrare: Very Rare #NEW
-veryrare_tooltip: Trophies above 5% and below 15% rarity #NEW
-rare: Rare #NEW
-rare_tooltip: Trophies above 15% and below 25% rarity #NEW
-uncommon: Uncommon #NEW
-uncommon_tooltip: Trophies above 25% and below 50% rarity #NEW
-common: Common #NEW
-common_tooltip: Trophies above 50% rarity #NEW
-sony_tracking: Sony Tracking #NEW
-sony_tracking_tooltip: Games that have progress tracking from sony #NEW
+trophy_type: Trophy Type
+rarity: Rarity
+prestige: Prestige
+prestige_tooltip: Trophies below 1% rarity
+ultrarare: Ultra Rare
+ultrarare_tooltip: Trophies above 1% and below 5% rarity
+veryrare: Very Rare
+veryrare_tooltip: Trophies above 5% and below 15% rarity
+rare: Rare
+rare_tooltip: Trophies above 15% and below 25% rarity
+uncommon: Uncommon
+uncommon_tooltip: Trophies above 25% and below 50% rarity
+common: Common
+common_tooltip: Trophies above 50% rarity
+sony_tracking: Sony Tracking
+sony_tracking_tooltip: Games that have progress tracking from sony
 
 #Alerts
 alert_success: Task completed succesfully!
@@ -107,6 +108,16 @@ completed_games: Completed Games
 completed_on: Completed on
 last_played_on: Last played on
 no_games_found: No Games Found
+
+#Edit Games
+more_information: More Information
+force_update: Force-Update Trophy List from PSN
+image: Image
+position: Position
+trophy_name: Trophy Name
+trophy_description: Trophy Description
+tags: Tags
+region: Region
 
 #Head
 site_name: Trophy Place #Should not be translated?
@@ -139,9 +150,9 @@ all: All
 in: in
 language: Language
 theme: Theme
-only: Only #NEW
-none: None #NEW
-on: 'On' #NEW
-off: 'Off' #NEW
+only: Only
+none: None
+on: 'On'
+off: 'Off'
 PLACEHOLDER: PLACEHOLDER #because buttons im not sure i want to do with yet
 empty: '' #in case we need to translate a thing but it isn't always a thing

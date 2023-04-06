@@ -16,6 +16,7 @@ about_us: Sobre nosotros
 issues: Problemas
 
 #User Games
+backlog: Backlog
 filter: Mostrar Filtros
 sort_by: Ordenar por
 last_played: Jugado Recientemente
@@ -107,6 +108,16 @@ completed_games: Juegos Completados
 completed_on: Completado el
 last_played_on: Jugado por última vez el
 no_games_found: No se han encontrado juegos
+
+#Edit Games
+more_information: More Information
+force_update: Force-Update Trophy List from PSN
+image: Image
+position: Position
+trophy_name: Trophy Name
+trophy_description: Trophy Description
+tags: Tags
+region: Region
 
 #Header
 site_name: Trophy Place #Should not be translated?

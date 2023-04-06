@@ -16,6 +16,7 @@ about_us: 私たちについて
 issues: 問題を報告
 
 #User Games
+backlog: Backlog
 filter: フィルターを表示
 sort_by: 通るを並べ替え
 last_played: 最近にプレイした
@@ -107,6 +108,16 @@ completed_games: ゲームが完全した
 completed_on: 完全したのは
 last_played_on: 最近にプレイしたのは
 no_games_found: ゲームが見つかではありません
+
+#Edit Games
+more_information: More Information
+force_update: Force-Update Trophy List from PSN
+image: Image
+position: Position
+trophy_name: Trophy Name
+trophy_description: Trophy Description
+tags: Tags
+region: Region
 
 #Head
 site_name: Trophy Place #Should not be translated?
