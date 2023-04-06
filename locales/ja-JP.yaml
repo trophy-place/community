@@ -156,5 +156,6 @@ only: 丈
 none: 何れにも
 on: オン
 off: オフ
+no_users_found: No users found
 PLACEHOLDER: プレースホルダー
 empty: '' #in case we need to translate a thing but it isn't always a thing

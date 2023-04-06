@@ -157,5 +157,6 @@ only: Apenas
 none: Nenhum
 on: Ativar
 off: Desativar
+no_users_found: Nenhum usuário encontrado
 PLACEHOLDER: RESERVADO #because buttons im not sure i want to do with yet
 empty: '' #in case we need to translate a thing but it isn't always a thing

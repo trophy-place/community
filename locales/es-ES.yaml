@@ -157,5 +157,6 @@ only: Únicamente
 none: Ninguno
 on: Activar
 off: Desactivar
+no_users_found: No users found
 PLACEHOLDER: Espacio Reservado
 empty: ''
