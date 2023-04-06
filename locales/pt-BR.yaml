@@ -110,14 +110,14 @@ last_played_on: Jogado em
 no_games_found: Nenhum jogo encontrado
 
 #Edit Games
-more_information: More Information
-force_update: Force-Update Trophy List from PSN
-image: Image
-position: Position
-trophy_name: Trophy Name
-trophy_description: Trophy Description
-tags: Tags
-region: Region
+more_information: Mais informação
+force_update: Forçar atualização de troféus da PSN
+image: Imagem
+position: Posição
+trophy_name: Nome do Troféu
+trophy_description: Descrição do Troféu
+tags: Etiquetas
+region: Região
 
 #Header
 site_name: Trophy Place #Should not be translated?
