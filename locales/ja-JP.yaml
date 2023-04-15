@@ -9,14 +9,14 @@ friends: フレンド
 settings: 設定
 feedback: フィードバック
 change_theme: テーマを変更
-close: Close #New
+close: 閉める
 
 #Footer
 about_us: 私たちについて
 issues: 問題を報告
 
 #User Games
-backlog: Backlog
+backlog: バックログ
 filter: フィルターを表示
 sort_by: 通るを並べ替え
 last_played: 最近にプレイした
@@ -58,7 +58,7 @@ versus: 対
 versus_tooltip: 要するPvPをゲームを見せる
 coop: コープ
 coop_tooltip: コープ含むゲームを見せる
-versuscoop: '対/コープ'
+versuscoop: 対/コープ
 both: 何方も
 both_tooltip: 何方もの競争力含むとコープ含むゲームを見せる
 some: 若干
@@ -114,14 +114,14 @@ no_games_found: ゲームが見つかではありません
 
 #Edit Games
 suggest_changes: Suggest changes
-more_information: More Information
-force_update: Force-Update Trophy List from PSN
-image: Image
-position: Position
-trophy_name: Trophy Name
-trophy_description: Trophy Description
-tags: Tags
-region: Region
+more_information: より情報
+force_update: PSNからトロフィーリストを強制的に更新
+image: 画像
+position: 位置
+trophy_name: トロフィー名前
+trophy_description: トロフィー説明
+tags: 荷札
+region: 地域
 
 #Head
 site_name: Trophy Place #Should not be translated?
