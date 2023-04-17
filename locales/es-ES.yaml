@@ -65,6 +65,8 @@ some: Varios
 some_tooltip: Juegos con la etiqueta competitivo o cooperativo
 ezpz: Muy fácil
 ezpz_tooltip: Juegos con la etiqueta de Muy Fácil
+free: Free
+free_tooltip: Display free games
 
 #Trophies
 platinum: Platino

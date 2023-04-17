@@ -65,6 +65,8 @@ some: Some
 some_tooltip: Games with either Competitive tag or Cooperative tag
 ezpz: EZPZ
 ezpz_tooltip: Games with the EZPZ tag
+free: Free
+free_tooltip: Display free games
 
 #Trophies
 platinum: Platinum

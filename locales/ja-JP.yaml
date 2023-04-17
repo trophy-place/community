@@ -65,6 +65,8 @@ some: 若干
 some_tooltip: 競争力含む又はコープ含むゲームを見せる
 ezpz: 易い
 ezpz_tooltip: 易いゲームを見せる
+free: Free
+free_tooltip: Display free games
 
 #Trophies
 platinum: プラチナ
