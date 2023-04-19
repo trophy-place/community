@@ -116,6 +116,7 @@ no_games_found: ゲームが見つかではありません
 
 #Edit Games
 suggest_changes: Suggest changes
+unsaved_changes: You have unsaved changes!
 more_information: より情報
 force_update: PSNからトロフィーリストを強制的に更新
 image: 画像
