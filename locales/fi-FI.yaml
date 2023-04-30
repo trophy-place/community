@@ -116,6 +116,8 @@ completed_games: Suoritetut pelit
 completed_on: Suoritettu
 last_played_on: Viimeksi pelattu
 no_games_found: Pelejä ei löydetty
+estimates: Estimates
+notice: Notice
 
 #Edit Games
 suggest_changes: Suggest changes
@@ -128,6 +130,17 @@ trophy_name: Trophy Name
 trophy_description: Trophy Description
 tags: Tags
 region: Region
+
+#Blueprint
+update: Update through PSN
+game_name: Game name
+no_notices: No notices
+dlc_suggestion: DLC Suggestions
+dlc_name: DLC Name
+dlc_estimate: DLC Estimate
+current: Current
+suggested: Suggested
+trophy_suggestion: Troféu Suggestions
 
 #Head
 site_name: Trophy Place

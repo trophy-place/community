@@ -113,6 +113,8 @@ completed_games: ゲームが完全した
 completed_on: 完全したのは
 last_played_on: 最近にプレイしたのは
 no_games_found: ゲームが見つかではありません
+estimates: Estimates
+notice: Notice
 
 #Edit Games
 suggest_changes: Suggest changes
@@ -125,6 +127,17 @@ trophy_name: トロフィー名前
 trophy_description: トロフィー説明
 tags: 荷札
 region: 地域
+
+#Blueprint
+update: Update through PSN
+game_name: Game name
+no_notices: No notices
+dlc_suggestion: DLC Suggestions
+dlc_name: DLC Name
+dlc_estimate: DLC Estimate
+current: Current
+suggested: Suggested
+trophy_suggestion: Troféu Suggestions
 
 #Head
 site_name: Trophy Place #Should not be translated?

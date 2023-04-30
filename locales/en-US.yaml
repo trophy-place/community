@@ -113,6 +113,8 @@ completed_games: Completed Games
 completed_on: Completed on
 last_played_on: Last played on
 no_games_found: No Games Found
+estimates: Estimates
+notice: Notice
 
 #Edit Games
 suggest_changes: Suggest changes
@@ -125,6 +127,17 @@ trophy_name: Trophy Name
 trophy_description: Trophy Description
 tags: Tags
 region: Region
+
+#Blueprint
+update: Update through PSN
+game_name: Game name
+no_notices: No notices
+dlc_suggestion: DLC Suggestions
+dlc_name: DLC Name
+dlc_estimate: DLC Estimate
+current: Current
+suggested: Suggested
+trophy_suggestion: Troféu Suggestions
 
 #Head
 site_name: Trophy Place #Should not be translated?
