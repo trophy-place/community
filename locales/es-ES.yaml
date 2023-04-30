@@ -54,6 +54,8 @@ platinum_tooltip: Mostrar juegos que tienen Platino
 stacks: Lista de trofeos acumulables
 stacks_tooltip: Mostrar juegos con listas de trofeos acumulables
 online: Online
+solo: Solo Online
+solo_tooltip: Games with online components that don't require interacting with other players
 versus: Competitivo / PVP
 versus_tooltip: Juegos con trofeos en modo competitivo o PVP
 coop: Cooperativo / PVE
@@ -63,6 +65,7 @@ both: Ambos
 both_tooltip: Juegos con etiquetas de competitivo y cooperativo
 some: Varios
 some_tooltip: Juegos con la etiqueta competitivo o cooperativo
+none_tooltip: Games with no tracked online trophies
 ezpz: Muy fácil
 ezpz_tooltip: Juegos con la etiqueta de Muy Fácil
 free: Free

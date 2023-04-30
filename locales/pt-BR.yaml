@@ -54,6 +54,8 @@ platinum_tooltip: Mostrar jogos que tem um troféu de platina
 stacks: Gêmeos
 stacks_tooltip: Mostrar jogos que tem uma lista muito parecida ou igual
 online: Online
+solo: Online Sozinho
+solo_tooltip: Jogos com troféus online que não requerem interação com outros jogadores
 versus: Competitivo/PvP
 versus_tooltip: Jogos que tem troféus relacionados aos modos de jogador contra jogador
 coop: Cooperativo/PvE
@@ -63,6 +65,7 @@ both: Ambos
 both_tooltip: Tanto jogos PvE quanto jogos PvE
 some: Qualquer um
 some_tooltip: Tanto jogos PvE OU jogos PvE
+none_tooltip: Jogos sem troféus online registrados
 ezpz: Garapa
 ezpz_tooltip: Jogos que não precisam de habilidade para platinar
 free: Grátis

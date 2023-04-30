@@ -53,7 +53,9 @@ dlc_tooltip: Display games with DLC
 platinum_tooltip: Display games with Platinums
 stacks: Stacks
 stacks_tooltip: Display games with stacks
-online: Online 
+online: Online
+solo: Solo Online
+solo_tooltip: Games with online components that don't require interacting with other players
 versus: Versus
 versus_tooltip: Games with the competitive tag
 coop: Co-op
@@ -63,6 +65,7 @@ both: Both
 both_tooltip: Games with both Competitive and Cooperative tags
 some: Some
 some_tooltip: Games with either Competitive tag or Cooperative tag
+none_tooltip: Games with no tracked online trophies
 ezpz: EZPZ
 ezpz_tooltip: Games with the EZPZ tag
 free: Free

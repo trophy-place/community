@@ -54,6 +54,8 @@ platinum_tooltip: プラチナ含むゲームを見せる
 stacks: スタック
 stacks_tooltip: スタック含むゲームを見せる
 online: オンライン
+solo: Solo Online
+solo_tooltip: Games with online components that don't require interacting with other players
 versus: 対
 versus_tooltip: 要するPvPをゲームを見せる
 coop: コープ
@@ -63,6 +65,7 @@ both: 何方も
 both_tooltip: 何方もの競争力含むとコープ含むゲームを見せる
 some: 若干
 some_tooltip: 競争力含む又はコープ含むゲームを見せる
+none_tooltip: Games with no tracked online trophies
 ezpz: 易い
 ezpz_tooltip: 易いゲームを見せる
 free: Free
