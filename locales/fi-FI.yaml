@@ -156,10 +156,17 @@ copyright: Copyright © 2023 - Kaikki oikeudet pidätetään pelaamalla.
 #Settings
 translate_the_site: Käännä sivu!
 
-#Misc (mostly single words)
+#Authentication
 username: Käyttäjänimi
+display_name: Display name
 email: Sähköposti
 password: Salasana
+confirm_password: Confirm password
+create_account: Create account
+sign_up: Sign Up
+login_error: Unable to login with the provided credentials. Please double-check the provided user and password and try again.
+
+#Misc (mostly single words)
 cancel: Peruuta
 submit: Lähetä
 hello: Hei

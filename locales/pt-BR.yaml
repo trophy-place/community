@@ -154,10 +154,17 @@ copyright: Copyright © 2023 - Todos os direitos reservados.
 #Settings
 translate_the_site: Traduza o site!
 
-#Misc (mostly single words)
+#Authentication
 username: Nome de usuário
+display_name: Nome visível
 email: Email
 password: Senha
+confirm_password: Confirmar senha
+create_account: Criar conta
+sign_up: Cadastrar
+login_error: Não foi possível entrar com as credenciais fornecidas. Verifique seu usuário e senha e tente novamente.
+
+#Misc (mostly single words)
 cancel: Cancelar
 submit: Enviar
 hello: Olá

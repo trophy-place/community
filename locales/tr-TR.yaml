@@ -153,10 +153,17 @@ copyright: Copyright © 2023 - Tüm Hakları Oyunda Saklıdır
 #Settings
 translate_the_site: Siteyi Tercüme Edin!
 
-#Misc (mostly single words)
+#Authentication
 username: Kullanıcı Adı
+display_name: Display name
 email: E-posta
 password: Şifre
+confirm_password: Confirm password
+create_account: Create account
+sign_up: Sign Up
+login_error: Unable to login with the provided credentials. Please double-check the provided user and password and try again.
+
+#Misc (mostly single words)
 cancel: İptal
 submit: Gönder
 hello: Merhaba

@@ -154,10 +154,17 @@ copyright: Copyright © 2023 - Todos los derechos reservados por gaming.
 #Settings
 translate_the_site: ¡Traduce la página web!
 
-#Misc (mostly single words)
+#Authentication
 username: Nombre de usuario
+display_name: Display name
 email: Correo electrónico
 password: Contraseña
+confirm_password: Confirm password
+create_account: Create account
+sign_up: Sign Up
+login_error: Unable to login with the provided credentials. Please double-check the provided user and password and try again.
+
+#Misc (mostly single words)
 cancel: Cancelar
 submit: Enviar
 hello: Hola

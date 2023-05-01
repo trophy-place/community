@@ -153,10 +153,17 @@ copyright: جميع الحقوق محفوظة © 2023
 #Settings
 translate_the_site: ترجم الموقع
 
-#Misc (mostly single words)
+#Authentication
 username: اسم المستخدم
+display_name: Display name
 email: البريد الإلكتروني
 password: كلمة المرور
+confirm_password: Confirm password
+create_account: Create account
+sign_up: Sign Up
+login_error: Unable to login with the provided credentials. Please double-check the provided user and password and try again.
+
+#Misc (mostly single words)
 cancel: إلغاء
 submit: دخول
 hello: مرحبا

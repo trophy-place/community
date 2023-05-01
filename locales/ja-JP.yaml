@@ -153,10 +153,17 @@ copyright: 著作権 © 2023年 - 全著作権所有のgaming以って
 #Settings
 translate_the_site: ウェブサイトを翻訳！
 
-#Misc (mostly single words)
+#Authentication
 username: ユーザー名
+display_name: Display name
 email: 電子メール
 password: パスワード
+confirm_password: Confirm password
+create_account: Create account
+sign_up: Sign Up
+login_error: Unable to login with the provided credentials. Please double-check the provided user and password and try again.
+
+#Misc (mostly single words)
 cancel: キャンセル
 submit: 提出
 hello: こんにちは

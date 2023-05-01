@@ -153,10 +153,17 @@ copyright: Copyright © 2023 - alle rechten voorbehouden door gaming
 #Settings
 translate_the_site: Vertaal de website!
 
-#Misc (mostly single words)
+#Authentication
 username: Gebruikersnaam
+display_name: Display name
 email: Email
 password: Wachtwoord
+confirm_password: Confirm password
+create_account: Create account
+sign_up: Sign Up
+login_error: Unable to login with the provided credentials. Please double-check the provided user and password and try again.
+
+#Misc (mostly single words)
 cancel: Annuleren
 submit: Indienen
 hello: Hallo
