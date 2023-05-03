@@ -16,7 +16,7 @@ about_us: Sobre nosotros
 issues: Problemas
 
 #User Games
-backlog: Backlog
+backlog: Juegos Pendientes
 filter: Mostrar Filtros
 sort_by: Ordenar por
 last_played: Jugado Recientemente
@@ -68,8 +68,8 @@ some_tooltip: Juegos con la etiqueta competitivo o cooperativo
 none_tooltip: Games with no tracked online trophies
 ezpz: Muy fácil
 ezpz_tooltip: Juegos con la etiqueta de Muy Fácil
-free: Free
-free_tooltip: Display free games
+free: Gratis
+free_tooltip: Mostrar juegos gratuitos
 
 #Trophies
 platinum: Platino
@@ -103,9 +103,9 @@ alert_info: ¿Sabías qué...?
 alert_default: ¡Aaaah!
 
 #Index Page
-welcome: Welcome to Trophy Place
-report: Feel free to report any issues on our
-discord_server: Discord server
+welcome: Bienvenido a Trophy Place
+report: Reporta cualquier problema en nuestro
+discord_server: servidor de Discord
 latest_games: Últimos juegos
 latest_dlc: Últimos DLC
 
@@ -120,16 +120,16 @@ estimates: Estimates
 notice: Notice
 
 #Edit Games
-suggest_changes: Suggest changes
-unsaved_changes: You have unsaved changes!
-more_information: More Information
-force_update: Force-Update Trophy List from PSN
-image: Image
-position: Position
-trophy_name: Trophy Name
-trophy_description: Trophy Description
-tags: Tags
-region: Region
+suggest_changes: Sugerir modificaciones
+unsaved_changes: Tienes cambios sin guardar!
+more_information: Mas información
+force_update: Forzar actualización de trofeos de PSN
+image: Imagen
+position: Posición
+trophy_name: Nombre del Trofeo
+trophy_description: Descripción del Trofeo
+tags: Etiquetas
+region: Región
 
 #Blueprint
 update: Update through PSN
@@ -140,7 +140,7 @@ dlc_name: DLC Name
 dlc_estimate: DLC Estimate
 current: Current
 suggested: Suggested
-trophy_suggestion: Troféu Suggestions
+trophy_suggestion: Trophy Suggestions
 
 #Header
 site_name: Trophy Place #Should not be translated?
@@ -184,6 +184,6 @@ only: Únicamente
 none: Ninguno
 on: Activar
 off: Desactivar
-no_users_found: No users found
+no_users_found: Ningún usuario encontrado
 PLACEHOLDER: Espacio Reservado
 empty: ''
