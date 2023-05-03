@@ -9,14 +9,14 @@ friends: Ystävät
 settings: Asetukset
 feedback: Palaute
 change_theme: Vaihda teemaa
-close: Close
+close: Sulje
 
 #Footer
 about_us: Keitä olemme
 issues: Ongelmat
 
 #User Games
-backlog: Backlog
+backlog: Kasauma
 filter: Näytä suodattimet
 sort_by: Järjestä
 last_played: Viimeksi pelattu
@@ -42,34 +42,34 @@ ascending_tooltip: A-Z, ylin-alin, viimeisin-vanhin
 descending: Laskeva
 descending_tooltip: Z-A. alin-ylin, vanhin-viimeisin
 platform: Alusta
-series: Series
-series_tooltip: Display games in series
-impossible: Impossible
-impossible_tooltip: Display impossible games
-delisted: Delisted
-delisted_tooltip: Display delisted games
+series: Sarja
+series_tooltip: Näytä pelit sarjoittain
+impossible: Mahdoton
+impossible_tooltip: Mahdottomat pelit
+delisted: Poistettu myynnistä
+delisted_tooltip: Pelit jotka poistettu myynnistä
 dlc: DLC
-dlc_tooltip: Display games with DLC
-platinum_tooltip: Display games with Platinums
-stacks: Stacks
-stacks_tooltip: Display games with stacks
+dlc_tooltip: Pelit DLC:illä
+platinum_tooltip: Näytä pelit platinumilla
+stacks: Setit
+stacks_tooltip: Näytä pelit useilla seteillä
 online: Online
 solo: Solo Online
 solo_tooltip: Games with online components that don't require interacting with other players
-versus: Versus
-versus_tooltip: Games with the competitive tag
-coop: Co-op
-coop_tooltip: Games with the cooperative tag
-versuscoop: 'Versus/Co-op'
-both: Both
-both_tooltip: Games with both Competitive and Cooperative tags
-some: Some
-some_tooltip: Games with either Competitive tag or Cooperative tag
+versus: PvP
+versus_tooltip: Pelit jotka vaativat PvP
+coop: Co-op/PvE
+coop_tooltip: Pelit jotka vaativat Co-op/PvE
+versuscoop: PvP/PvE
+both: Molemmat
+both_tooltip: Pelit jotka vaativat molempia PvP ja PvE
+some: Jonkin verran
+some_tooltip: Pelit joko PvP tai PvE tagillä
 none_tooltip: Games with no tracked online trophies
-ezpz: EZPZ
-ezpz_tooltip: Games with the EZPZ tag
-free: Free
-free_tooltip: Display free games
+ezpz: Iisi piisi
+ezpz_tooltip: Pelit Iisi piisi tagillä
+free: Ilmainen
+free_tooltip: Näytä ilmaiset pelit
 
 #Trophies
 platinum: Platina
@@ -78,22 +78,22 @@ silver: Hopea
 bronze: Pronssi
 total_trophies: Trophyjen kokonaismäärä
 no_trophies_found: Ei löydetty trophyja
-trophy_type: Trophy Type
-rarity: Rarity
-prestige: Prestige
-prestige_tooltip: Trophies below 1% rarity
-ultrarare: Ultra Rare
-ultrarare_tooltip: Trophies above 1% and below 5% rarity
-veryrare: Very Rare
-veryrare_tooltip: Trophies above 5% and below 15% rarity
-rare: Rare
-rare_tooltip: Trophies above 15% and below 25% rarity
-uncommon: Uncommon
-uncommon_tooltip: Trophies above 25% and below 50% rarity
-common: Common
-common_tooltip: Trophies above 50% rarity
-sony_tracking: Sony Tracking
-sony_tracking_tooltip: Games that have progress tracking from sony
+trophy_type: Trophy tyyppi
+rarity: Harvinaisuus
+prestige: Arvovalta
+prestige_tooltip: Trophyt alle 1% harvinaisuuden
+ultrarare: Ultra harvinainen
+ultrarare_tooltip: Trophyt 1% ja 5% välillä
+veryrare: Hyvin harvinainen
+veryrare_tooltip: Trophyt 5% ja 15% välillä
+rare: Harvinainen
+rare_tooltip: Trophyt 15% ja 25% välillä
+uncommon: Epätavallinen
+uncommon_tooltip: Trophyt 25% ja 50% välillä
+common: Yleinen
+common_tooltip: Trophyt yli 50% harvinaisuuden
+sony_tracking: Sonyn seuranta
+sony_tracking_tooltip: Pelit joissa edistys seurantaa Sonylta
 
 #Alerts
 alert_success: Tehtävä suoritettu onnistuneesti
@@ -103,9 +103,9 @@ alert_info: Tiesitkö?!
 alert_default: Hups!
 
 #Index Page
-welcome: Welcome to Trophy Place
-report: Feel free to report any issues on our
-discord_server: Discord server
+welcome: Tervetuloa Trophy Placeen
+report: Ilmoita ongelmista meidän
+discord_server: Discordissa
 users_tracked: Users tracked
 trophies_tracked: Trophies tracked
 games_tracked: Games tracked
@@ -123,16 +123,16 @@ estimates: Estimates
 notice: Notice
 
 #Edit Games
-suggest_changes: Suggest changes
-unsaved_changes: You have unsaved changes!
-more_information: More Information
-force_update: Force-Update Trophy List from PSN
-image: Image
-position: Position
-trophy_name: Trophy Name
-trophy_description: Trophy Description
-tags: Tags
-region: Region
+suggest_changes: Ehdota muutoksia
+unsaved_changes: Sinulla on tallentamattomia muutoksia!
+more_information: Enemmän tietoa
+force_update: Pakkopäivitä trophy lista PSN:stä
+image: Kuva
+position: Sijainti
+trophy_name: Trophyn nimi
+trophy_description: Trophyn kuvaus
+tags: Tunnisteet
+region: Alue
 
 #Blueprint
 update: Update through PSN
@@ -143,7 +143,7 @@ dlc_name: DLC Name
 dlc_estimate: DLC Estimate
 current: Current
 suggested: Suggested
-trophy_suggestion: Troféu Suggestions
+trophy_suggestion: Trophy Suggestions
 
 #Head
 site_name: Trophy Place
@@ -182,10 +182,10 @@ all: Kaikki
 in: Ajassa
 language: Kieli
 theme: Teema
-only: Only
-none: None
-on: 'On'
-off: 'Off'
-no_users_found: No users found
+only: Vain
+none: Ei mitään
+on: Päällä
+off: Pois päältä
+no_users_found: Käyttäjiä ei löydetty
 PLACEHOLDER: Paikanpitäjä
 empty: ''
