@@ -60,7 +60,7 @@ versus: Versus
 versus_tooltip: Games with the competitive tag
 coop: Co-op
 coop_tooltip: Games with the cooperative tag
-versuscoop: 'Versus/Co-op'
+versuscoop: Versus/Co-op
 both: Both
 both_tooltip: Games with both Competitive and Cooperative tags
 some: Some
@@ -93,7 +93,7 @@ uncommon_tooltip: Trophies above 25% and below 50% rarity
 common: Common
 common_tooltip: Trophies above 50% rarity
 sony_tracking: Sony Tracking
-sony_tracking_tooltip: Games that have progress tracking from sony
+sony_tracking_tooltip: Games that have progress tracking from Sony
 
 #Alerts
 alert_success: Task completed succesfully!
@@ -140,7 +140,7 @@ dlc_name: DLC Name
 dlc_estimate: DLC Estimate
 current: Current
 suggested: Suggested
-trophy_suggestion: Troféu Suggestions
+trophy_suggestion: Trophy Suggestions
 
 #Head
 site_name: Trophy Place #Should not be translated?
@@ -181,8 +181,8 @@ language: Language
 theme: Theme
 only: Only
 none: None
-on: 'On'
-off: 'Off'
+on: on
+off: off
 no_users_found: No users found
 PLACEHOLDER: PLACEHOLDER #because buttons im not sure i want to do with yet
 empty: '' #in case we need to translate a thing but it isn't always a thing
