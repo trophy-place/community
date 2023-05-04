@@ -9,7 +9,7 @@ friends: Arkadaşlar
 settings: Ayarlar
 feedback: Geri Bildirim
 change_theme: Temayı Değiştir
-close: Close
+close: Kapat
 
 #Footer
 about_us: Hakkımızda
@@ -42,58 +42,58 @@ ascending_tooltip: En Küçük - En Büyük, En Eski - En Yeni
 descending: Azalan
 descending_tooltip: En Büyük - En Küçük, En Yeni - En Eski
 platform: Platform
-series: Series
-series_tooltip: Display games in series
-impossible: Impossible
-impossible_tooltip: Display impossible games
-delisted: Delisted
-delisted_tooltip: Display delisted games
+series: Seri
+series_tooltip: Serideki oyunları göster
+impossible: İmkansız
+impossible_tooltip: İmkansız oyunları göster
+delisted: Satıştan çıkarılmış
+delisted_tooltip: Satıştan çıkarılmış oyunları göster
 dlc: DLC
-dlc_tooltip: Display games with DLC
-platinum_tooltip: Display games with Platinums
-stacks: Stacks
-stacks_tooltip: Display games with stacks
+dlc_tooltip: DLC'li oyunları göster
+platinum_tooltip: Platinumu olan oyunları göster
+stacks: Stack
+stacks_tooltip: Stack'i olan oyunları göster
 online: Online
 solo: Solo Online
 solo_tooltip: Games with online components that don't require interacting with other players
 versus: Versus
-versus_tooltip: Games with the competitive tag
+versus_tooltip: PvP gereken oyunlar
 coop: Co-op
-coop_tooltip: Games with the cooperative tag
-versuscoop: 'Versus/Co-op'
-both: Both
-both_tooltip: Games with both Competitive and Cooperative tags
+coop_tooltip: Co-op etiketi olan oyunlar
+versuscoop: Versus/Co-op
+both: İkisi birden
+both_tooltip: Hem yarışmacı hem co-op etiketi olan oyunlar
 some: Some
-some_tooltip: Games with either Competitive tag or Cooperative tag
+some_tooltip: Yarışmacı veya co-op olan oyunlar
 none_tooltip: Games with no tracked online trophies
 ezpz: EZPZ
-ezpz_tooltip: Games with the EZPZ tag
-free: Free
-free_tooltip: Display free games
+ezpz_tooltip: EZPZ etiketi olan oyunlar
+free: Bedava
+free_tooltip: Bedava oyunları göster
 
 #Trophies
-platinum: Platin
+platinum: Platinum
 gold: Altın
 silver: Gümüş
 bronze: Bronz
 total_trophies: Toplam Kupa
 no_trophies_found: Hiç Kupa Bulunamadı
-trophy_type: Trophy Type
-rarity: Rarity
-prestige: Prestige
-prestige_tooltip: Trophies below 1% rarity
-ultrarare: Ultra Rare
-ultrarare_tooltip: Trophies above 1% and below 5% rarity
-veryrare: Very Rare
-veryrare_tooltip: Trophies above 5% and below 15% rarity
-rare: Rare
-rare_tooltip: Trophies above 15% and below 25% rarity
-uncommon: Uncommon
-uncommon_tooltip: Trophies above 25% and below 50% rarity
-common: Common
-common_tooltip: Trophies above 50% rarity
-sony_tracking: Sony Tracking
-sony_tracking_tooltip: Games that have progress tracking from sony
+trophy_type: Kupa tipi
+rarity: Sıklık
+prestige: Prestij
+prestige_tooltip: Sıklığı %1'in altında olan kupalar
+ultrarare: Ultra Nadir
+ultrarare_tooltip: Sıklığı %1-%5 arası olan kupalar
+veryrare: Çok Nadir
+veryrare_tooltip: Sıklığı %5-15 arası olan kupalar
+rare: Nadir
+rare_tooltip: Sıklığı %15-25 arası olan kupalar
+uncommon: Yaygın olmayan
+uncommon_tooltip: Sıklığı %25-50 arasında olan kupalar
+common: Yaygın
+common_tooltip: Sıklığı %50'nin üstünde olan kupalar
+sony_tracking: Sony Takip
+sony_tracking_tooltip: Sony tarafından ilerlenme düzeyi takip edilen oyunlar
 
 #Alerts
 alert_success: Görev Başarıyla Tamamlandı!
@@ -103,9 +103,9 @@ alert_info: Biliyor Muydunuz?!
 alert_default: Aahh!
 
 #Index Page
-welcome: Welcome to Trophy Place
-report: Feel free to report any issues on our
-discord_server: Discord server
+welcome: Trophy Place'e Hoş Geldiniz
+report: Her türlü sorunu rahatça bildirin
+discord_server: Discord sunucusu
 latest_games: Son Oyunlar
 latest_dlc: Son DLC
 
@@ -120,16 +120,16 @@ estimates: Estimates
 notice: Notice
 
 #Edit Games
-suggest_changes: Suggest changes
-unsaved_changes: You have unsaved changes!
-more_information: More Information
-force_update: Force-Update Trophy List from PSN
-image: Image
-position: Position
-trophy_name: Trophy Name
-trophy_description: Trophy Description
-tags: Tags
-region: Region
+suggest_changes: Değişiklik önerin
+unsaved_changes: Kaydedilmemiş değişiklikleriniz var!
+more_information: Daha Fazla Bilgi
+force_update: PSN'den Kupa Listesini Güncellemeye Zorla
+image: Görüntü
+position: Yer
+trophy_name: Kupa İsmi
+trophy_description: Kupa Tanımı
+tags: Etiketler
+region: Bölge
 
 #Blueprint
 update: Update through PSN
@@ -140,7 +140,7 @@ dlc_name: DLC Name
 dlc_estimate: DLC Estimate
 current: Current
 suggested: Suggested
-trophy_suggestion: Troféu Suggestions
+trophy_suggestion: Trophy Suggestions
 
 #Head
 site_name: Trophy Place #Should not be translated?
@@ -179,10 +179,10 @@ all: Hepsi
 in: İçinde
 language: Dil
 theme: Tema
-only: Only
-none: None
-on: 'On'
-off: 'Off'
-no_users_found: No users found
+only: Sadece
+none: Hiçbiri
+on: Açık
+off: Kapalı
+no_users_found: Kullanıcı Bulunamadı
 PLACEHOLDER: Yer Tutucu
 empty: ''
