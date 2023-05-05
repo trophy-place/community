@@ -162,6 +162,8 @@ confirm_password: Confirm password
 create_account: Create account
 sign_up: Sign Up
 login_error: Unable to login with the provided credentials. Please double-check the provided user and password and try again.
+login_success: Logged in successfully!
+login_required: You must be logged in to preform that action.
 
 #Misc (mostly single words)
 cancel: إلغاء

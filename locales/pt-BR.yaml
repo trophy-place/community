@@ -163,6 +163,8 @@ confirm_password: Confirmar senha
 create_account: Criar conta
 sign_up: Cadastrar
 login_error: Não foi possível entrar com as credenciais fornecidas. Verifique seu usuário e senha e tente novamente.
+login_success: Você se conectou com sucesso!
+login_required: Você precisa se conectar para executar essa ação.
 
 #Misc (mostly single words)
 cancel: Cancelar
