@@ -145,6 +145,9 @@ update: Update through PSN
 game_name: Game name
 no_notices: No notices
 trophy_details: Trophy Details
+no_tip: No tip
+reason: Reason
+source: Source
 dlc_suggestion: DLC Suggestions
 dlc_name: DLC Name
 dlc_estimate: DLC Estimate
