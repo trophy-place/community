@@ -70,6 +70,12 @@ ezpz: EZPZ
 ezpz_tooltip: Games with the EZPZ tag
 free: Free
 free_tooltip: Display free games
+free_launch: Free (launch)
+free_launch_tooltip: This DLC is free and it's present on every copy of the game since launch.
+free_patch: Free (patch)
+free_patch_tooltip: This DLC is free, but you need to update the game to have it downloaded.
+free_download: Free (download)
+free_download_tooltip: This DLC is free, but you need to download it manually from the Playstation Store.
 
 #Trophies
 platinum: Πλάτινο
@@ -135,12 +141,17 @@ region: Region
 update: Update through PSN
 game_name: Game name
 no_notices: No notices
+trophy_details: Trophy Details
 dlc_suggestion: DLC Suggestions
 dlc_name: DLC Name
 dlc_estimate: DLC Estimate
+free_type: Free Type
 current: Current
 suggested: Suggested
 trophy_suggestion: Trophy Suggestions
+submitting_user: Submitting User
+game_manager: Game Manager
+blueprint_data: Blueprint
 
 #Head
 site_name: Trophy Place

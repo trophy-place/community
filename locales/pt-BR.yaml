@@ -70,6 +70,12 @@ ezpz: Garapa
 ezpz_tooltip: Jogos que não precisam de habilidade para platinar
 free: Grátis
 free_tooltip: Jogos gratuitos
+free_launch: Free (lançamento)
+free_launch_tooltip: Essa DLC é gratuita e presente em todas as cópias do jogo desde o lançamento.
+free_patch: Free (atualização)
+free_patch_tooltip: Essa DLC é gratuita, mas você precisa atualizar seu jogo para ter acesso.
+free_download: Free (baixar)
+free_download_tooltip: Essa DLC é gratuita, mas você precisa baixar ela manualmente pela Playstation Store.
 
 #Trophies
 platinum: Platina
@@ -135,12 +141,17 @@ region: Região
 update: Atualizar pela PSN
 game_name: Nome do Jogo
 no_notices: Sem avisos
+trophy_details: Detalhes de Troféu
 dlc_suggestion: Sugestões de DLC
 dlc_name: Nome da DLC
 dlc_estimate: Estimativa da DLC
+free_type: Tipo de Gratuidade
 current: Atual
 suggested: Sugerido
 trophy_suggestion: Sugestões de Troféu
+submitting_user: Usuário que enviou
+game_manager: Gerente de Jogos
+blueprint_data: Planta-baixa de mudanças
 
 #Header
 site_name: Trophy Place #Should not be translated?
