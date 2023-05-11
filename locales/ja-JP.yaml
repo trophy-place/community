@@ -155,6 +155,7 @@ trophy_suggestion: Trophy Suggestions
 submitting_user: Submitting User
 game_manager: Game Manager
 blueprint_data: Blueprint
+request_completed: Request Completed
 
 #Head
 site_name: Trophy Place #Should not be translated?
@@ -200,5 +201,6 @@ none: 何れにも
 on: オン
 off: オフ
 no_users_found: ユーザーズが見つかではありません
+return: Return
 PLACEHOLDER: プレースホルダー
 empty: '' #in case we need to translate a thing but it isn't always a thing

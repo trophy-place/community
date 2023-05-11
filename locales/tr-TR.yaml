@@ -155,6 +155,7 @@ trophy_suggestion: Trophy Suggestions
 submitting_user: Submitting User
 game_manager: Game Manager
 blueprint_data: Blueprint
+request_completed: Request Completed
 
 #Head
 site_name: Trophy Place #Should not be translated?
@@ -200,5 +201,6 @@ none: Hiçbiri
 on: Açık
 off: Kapalı
 no_users_found: Kullanıcı Bulunamadı
+return: Return
 PLACEHOLDER: Yer Tutucu
 empty: ''

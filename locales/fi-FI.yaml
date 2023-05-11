@@ -158,6 +158,7 @@ trophy_suggestion: Trophy Suggestions
 submitting_user: Submitting User
 game_manager: Game Manager
 blueprint_data: Blueprint
+request_completed: Request Completed
 
 #Head
 site_name: Trophy Place
@@ -203,5 +204,6 @@ none: Ei mitään
 on: Päällä
 off: Pois päältä
 no_users_found: Käyttäjiä ei löydetty
+return: Return
 PLACEHOLDER: Paikanpitäjä
 empty: ''
