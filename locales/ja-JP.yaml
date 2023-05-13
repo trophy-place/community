@@ -136,6 +136,20 @@ trophy_name: トロフィー名前
 trophy_description: トロフィー説明
 tags: 荷札
 region: 地域
+game_estimate: Game Estimate
+minimum_time: Minimum Time
+minimum_time_help: Minimum Time to complete the content pack in hours
+maximum_time: Maximum Time
+maximum_time_help: Maximum Time to complete the content pack in hours
+playthroughs: Playthroughs
+playthroughs_help: Minimum amount of playthroughs to complete the content pack.
+difficulty: Difficulty
+add_new_notice: Add New Notice
+notice_type: Notice Type
+exploit: Exploit
+shutdown: Shutdown
+other: Other
+add: Add
 
 #Blueprint
 update: Update through PSN
