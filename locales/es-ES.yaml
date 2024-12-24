@@ -30,7 +30,7 @@ first_trophy_tooltip: Primer trofeo ganado en cada juego
 trophy_gap: Tiempo entre el primer y último trofeo
 trophy_gap_tooltip: Tiempo transcurrido entre el primer y el último trofeo obtenido en cada juego
 alphabetical: Orden Alfabético
-completion_per: % Completado
+completion_per: '% Completado'
 completion: Finalización
 complete: Completo
 complete_tooltip: Juegos con un progreso del 100%
