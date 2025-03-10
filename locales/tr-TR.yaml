@@ -33,9 +33,9 @@ alphabetical: Alfabetik
 completion_per: Tamamlama Yüzdesi
 completion: Tamamlama
 complete: Tamamlanmış
-complete_tooltip: %100 Bitirilen Oyunlar
+complete_tooltip: '%100 Bitirilen Oyunlar'
 incomplete: Tamamlanmamış
-incomplete_tooltip: %100'den Azı Bitirilen Oyunlar
+incomplete_tooltip: "%100'den Azı Bitirilen Oyunlar"
 order: Sıra
 ascending: Artan
 ascending_tooltip: En Küçük - En Büyük, En Eski - En Yeni
